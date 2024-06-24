@@ -1,0 +1,81 @@
+---
+import { data } from "./yad-data";
+
+export function getStaticPaths() {
+  let params = [];
+  data.forEach((el, i) => {
+    params.push({ params: { w: i } });
+  });
+
+  return params;
+}
+
+import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
+
+const { w } = Astro.params;
+function getValueByName(list, name) {
+  for (let item of list) {
+    if (item.name === name) {
+      return item.value;
+    }
+  }
+  return "Name not found";
+}
+let dat = data[w];
+let name = dat.name;
+let origin = dat.origin;
+let meaning = dat.meaning;
+---
+
+<style>
+  .container {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(32, 31, 31);
+  }
+  strong {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: rgba(0, 238, 255, 0.205);
+    font-weight: bold;
+  }
+  .container2 {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: rgba(0, 238, 255, 0.205);
+    font-weight: bold;
+  }
+  .container3 {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: rgba(0, 238, 255, 0.205);
+    width: min-content;
+    white-space: nowrap;
+  }
+
+  .hide {
+    display: none;
+  }
+</style>
+
+<StarlightPage frontmatter={{ title: name || "" }}>
+  <ul>
+    <div>
+      <strong>Sözlük:</strong> Karşılık Sözlüğü
+      <strong>Köken:</strong>
+      {origin}
+      <p data-pagefind-filter="Karşılık Sözlüğü:Köken:{origin}"></p>
+    </div>
+
+    <div class="container2" data-pagefind-filter="Karşılık Sözlüğü:Anlam">
+      {meaning}
+    </div>
+    <p class="hide" data-pagefind-filter="Azerbaycan Türkçesi:Sözcük">
+      {w}
+    </p>
+  </ul>
+</StarlightPage>
