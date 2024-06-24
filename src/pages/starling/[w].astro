@@ -98,11 +98,7 @@ if (reta.includes("Tungusic")) {
       reta.map((item) => (
         <div
           class="container bg-red-200"
-          data-pagefind-filter={
-            "Proto Türkçe Sözlük:Karşılıklar" +
-            ", Proto Türkçe Sözlük:Karşılıklar" +
-            item
-          }
+          data-pagefind-filter={"Proto Türkçe Sözlük:Karşılıklar:" + item}
         >
           <strong>{item.replace("-", " ")}</strong>: {ret[item]}
         </div>
@@ -112,9 +108,5 @@ if (reta.includes("Tungusic")) {
     <div class="container">
       {comment}
     </div>
-
-    <p class="hide" data-pagefind-filter="Proto Türkçe Sözlük: Sözcük">
-      {ret.prnounce || ""}
-    </p>
   </ul>
 </StarlightPage>
