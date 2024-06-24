@@ -109,11 +109,17 @@ let meaning = dat.meaning;
       <p data-pagefind-filter={"Karşılık Sözlüğü:" + "Köken:" + origin}></p>
     </div>
 
-    <div class="container2" data-pagefind-filter="Karşılık Sözlüğü:Anlam">
+    <div class="container2">
       {meaning}
     </div>
-    <p class="hide" data-pagefind-filter="Azerbaycan Türkçesi:Sözcük">
-      {w}
-    </p>
+    <div class="hide">
+      {
+        origins.map((origin) => {
+          return (
+            <p data-pagefind-filter={"Karşılık Sözlüğü:" + "Köken:" + origin} />
+          );
+        })
+      }
+    </div>
   </ul>
 </StarlightPage>
