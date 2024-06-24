@@ -4,12 +4,10 @@ import starlightUtils from "@lorenzo_lewis/starlight-utils";
 
 // https://astro.build/config
 export default defineConfig({
-  
   site: 'https://onrirr.github.io/',
   base: 'tuvgan',
   integrations: [
     starlight({
-
       plugins: [
         starlightUtils({
           multiSidebar: {
@@ -18,13 +16,17 @@ export default defineConfig({
         }),
       ],
       title: "Tuvgan Sözlük",
-      defaultLocale: "tr",
-
+      defaultLocale: "root",
       locales: {
-        tr: {
+        root: {
           label: "Türkçe",
           direction: "ltr",
           lang: "tr",
+        },
+        en: {
+          label: "English",
+          direction: "ltr",
+          lang: "en",
         },
       },
       customCss: ["./src/styles/global.css"],

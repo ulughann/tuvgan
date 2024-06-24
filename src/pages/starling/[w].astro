@@ -25,8 +25,6 @@ reta.filter((item) => item !== "Meaning");
 reta = reta.filter((item) => item !== "id");
 reta = reta.filter((item) => item !== "Comments");
 reta = reta.filter((item) => item !== "Altaic etymology");
-
-console.log(reta);
 ---
 
 <style>
@@ -55,18 +53,18 @@ console.log(reta);
 <StarlightPage frontmatter={{ title: ret.pronounce || "" }}>
 
 <ul>
-  <div class="container2">
+  <div class="container2" data-pagefind-filter="meaning">
     {meaning}
   </div>
 {
       reta.map((item) => (
-      <div class="container bg-red-200">
+      <div data-pagefind-filter={item} class="container bg-red-200">
         <strong>{item}</strong>: {ret[item]}
       </div>
       ))
 }
   <br>
-  <div class="container">
+  <div class="container" data-pagefind-filter={comment}>
     {comment}
   </div>
 </ul>

@@ -3,8 +3,6 @@ const fs = require("fs");
 let s = fs.readFileSync("../starling.json", "utf8");
 let starling = JSON.parse(s);
 
-console.log(starling);
-
 function replacer(text) {
   let r = text
     .replaceAll("j", "y")
