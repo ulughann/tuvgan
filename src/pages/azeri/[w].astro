@@ -47,17 +47,28 @@ ret = ret.slice(1)
     background-color: rgba(0, 238, 255, 0.205);
     font-weight: bold;
   }
+  .container3 {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: rgba(0, 238, 255, 0.205);
+    width: min-content;
+    white-space: nowrap;
+
+  }
 </style>
 
 <StarlightPage frontmatter={{ title: w || "" }} >
-  <ul data-pagefind-filter="azeri">
-    <div class="container2">
+  <ul>
+    <div><strong>Dil:</strong> Azerbaycan Türkçesi</div>
+
+    <div class="container2" data-pagefind-filter="azeri">
       {el1.replaceAll("\\n", "").replaceAll(/\{[^}]+\}/g, "")}
     </div>
     {
       ret.map((el) => (
         <li>
-          <div class="container">
+          <div class="container" data-pagefind-filter="azeri (anlam)">
             {el.split("\\n").map((el2) => (
               <p>{el2}</p>
             ))}
