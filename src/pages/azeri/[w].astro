@@ -62,13 +62,13 @@ ret = ret.slice(1)
   <ul>
     <div><strong>Dil:</strong> Azerbaycan Türkçesi</div>
 
-    <div class="container2" data-pagefind-filter="azeri">
+    <div class="container2" data-pagefind-filter="Azeri:Anlam">
       {el1.replaceAll("\\n", "").replaceAll(/\{[^}]+\}/g, "")}
     </div>
     {
       ret.map((el) => (
         <li>
-          <div class="container" data-pagefind-filter="azeri (anlam)">
+          <div class="container" data-pagefind-filter="Azeri:Anlam">
             {el.split("\\n").map((el2) => (
               <p>{el2}</p>
             ))}

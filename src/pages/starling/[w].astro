@@ -52,12 +52,15 @@ reta = reta.filter((item) => item !== "Altaic etymology");
 
 <StarlightPage frontmatter={{ title: ret.pronounce || "" }}>
   <ul>
-    <div class="container2" data-pagefind-filter="Starling (Anlam)">
+    <div class="container2" data-pagefind-filter="Starling:Anlam">
       {meaning}
     </div>
     {
       reta.map((item) => (
-        <div class="container bg-red-200" data-pagefind-filter={"Starling (" + item.trim() + ")"}>
+        <div
+          class="container bg-red-200"
+          data-pagefind-filter={"Starling:" + item.trim()}
+        >
           <strong>{item}</strong>: {ret[item]}
         </div>
       ))
