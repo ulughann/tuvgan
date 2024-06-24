@@ -39,17 +39,17 @@ export const data = [
   { name: "acılaşmak", origin: "Yerel", meaning: "Acımak, Acılaşmak\r" },
   {
     name: "acımak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(canı yanmak) Ağrımak\\n\\n",
   },
   {
     name: "acımasız",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Taşbağır, Taşyürek\r",
   },
   {
     name: "acıtmak",
-    origin: "Anlam kayması ",
+    origin: "Türkçe ",
     meaning: "Ağrıtmak, İncitmek\r",
   },
   { name: "aciz", origin: "Arapça", meaning: "Güçsüz\r" },
@@ -114,7 +114,7 @@ export const data = [
   },
   { name: "ağ", origin: "Yerel", meaning: "Tor, Ağ\r" },
   { name: "ağabey", origin: "Yerel", meaning: "Ağa\r" },
-  { name: "ağıl", origin: "Anlam daralması", meaning: "Ağıl, Kora\r" },
+  { name: "ağıl", origin: "Türkçe", meaning: "Ağıl, Kora\r" },
   {
     name: "ağırbaşlı",
     origin: "Yerel",
@@ -219,12 +219,12 @@ export const data = [
   { name: "akşam", origin: "Farsça", meaning: "İnir, Geç\r" },
   {
     name: "aktarmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Göçürmek, Kotarmak, Kaptan kaba kuymak\r",
   },
   {
     name: "aktarma yapmak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Alıştırmak, Yol alıştırmak\r",
   },
   {
@@ -238,7 +238,7 @@ export const data = [
     meaning: "Ermek, Gönül açma, Oyun-gülgü, Dırışma, Aldanma, Avunma\r",
   },
   { name: "akvaryum", origin: "Latince", meaning: "Balıkduvan\r" },
-  { name: "al", origin: "Anlam kayması", meaning: "Kızıl\r" },
+  { name: "al", origin: "Türkçe", meaning: "Kızıl\r" },
   { name: "alaca", origin: "Yerel", meaning: "Ala bula, Alaca\r" },
   {
     name: "alaka",
@@ -339,17 +339,17 @@ export const data = [
   },
   {
     name: "alışmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Öğrenmek, Könükmek\r",
   },
   {
     name: "alıştırma",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Öğretme, Könüktürme\r",
   },
   {
     name: "alıştırmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Öğretmek, Könüktürmek\r",
   },
   { name: "âlim", origin: "Arapça", meaning: "Okumuşlu, Bilge\r" },
@@ -498,7 +498,7 @@ export const data = [
   { name: "araç", origin: "Uydurukça", meaning: "Kural\r" },
   {
     name: "aramak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "İzlemek, Aktarmak, Karamak\r",
   },
   {
@@ -544,7 +544,7 @@ export const data = [
   { name: "artı", origin: "Uydurukça", meaning: "Koşu belgisi\r" },
   {
     name: "artık",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(bundan sonra) Şimdi, Bundan Geyin\\n\\n",
   },
   {
@@ -630,7 +630,7 @@ export const data = [
     origin: "Arapça+Türkçe",
     meaning: "Seviye düşmek\r",
   },
-  { name: "ata", origin: "Anlam kayması", meaning: "Ata babalar\r" },
+  { name: "ata", origin: "Türkçe", meaning: "Ata babalar\r" },
   { name: "atasözü", origin: "Yerel", meaning: "Atalar sözü\r" },
   {
     name: "atak",
@@ -639,7 +639,7 @@ export const data = [
   },
   {
     name: "atamak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Belgilemek, Atamak\r",
   },
   {
@@ -654,14 +654,14 @@ export const data = [
   },
   {
     name: "atılmak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(saldırmak) Intılmak, Irgılmak, Atılmak\\n\\n",
   },
   { name: "atkı", origin: "Uydurukça", meaning: "Boyun oragıç\r" },
   { name: "atlamak", origin: "Yerel", meaning: "Sekirmek, Atlamak\r" },
   {
     name: "atmak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Dışlamak, Irgıtmak, Atmak\r",
   },
   { name: "atmosfer", origin: "Fransızca", meaning: "Yerderi\r" },
@@ -698,20 +698,20 @@ export const data = [
   },
   {
     name: "aydınlanmak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Yarıtılmak, Aydınlanmak\r",
   },
   {
     name: "aydınlatmak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Yarıtmak, Aydınlatmak\r",
   },
   {
     name: "aydınlık",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Yarıklık, Aydınlık\r",
   },
-  { name: "aygıt", origin: "Kökeni belirsiz", meaning: "Kural\r" },
+  { name: "aygıt", origin: "Belirsiz", meaning: "Kural\r" },
   { name: "ayıp", origin: "Arapça", meaning: "Uyat, Utanç\r" },
   {
     name: "ayıplamak",
@@ -751,7 +751,7 @@ export const data = [
     origin: "Arapça+Türkçe",
     meaning: "Boşatmak, Çıkarmak, Düşürmek\r",
   },
-  { name: "baba", origin: "Anlam kayması", meaning: "Ata\r" },
+  { name: "baba", origin: "Türkçe", meaning: "Ata\r" },
   {
     name: "babacan",
     origin: "Farsça",
@@ -782,8 +782,8 @@ export const data = [
     origin: "Uydurukça",
     meaning: "Karayışsız, Bağsız, Bağınsız, Bağınışsız, Erkin, Erkli\r",
   },
-  { name: "bağır", origin: "Anlam kayması", meaning: "Döş, Kökrek\r" },
-  { name: "bağırsak", origin: "Anlam kayması", meaning: "İçek\r" },
+  { name: "bağır", origin: "Türkçe", meaning: "Döş, Kökrek\r" },
+  { name: "bağırsak", origin: "Türkçe", meaning: "İçek\r" },
   {
     name: "bağışlamak",
     origin: "Farsça+Türkçe",
@@ -819,7 +819,7 @@ export const data = [
   { name: "bakla", origin: "Arapça", meaning: "Atburçağı\r" },
   {
     name: "bakmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Karamak, Bakmak\r",
   },
   { name: "balgam", origin: "Arapça", meaning: "Kakırık\r" },
@@ -843,7 +843,7 @@ export const data = [
   { name: "barbar", origin: "Fransızca", meaning: "Yaban, Yabani\r" },
   {
     name: "barınmak",
-    origin: "Yerel/Belirsiz",
+    origin: "Belirsiz",
     meaning: "Yaşınmak, Yapınmak, Bekinmek, Daldalanmak\r",
   },
   { name: "barış", origin: "Uydurukça", meaning: "Dinçlik\r" },
@@ -860,7 +860,7 @@ export const data = [
   },
   {
     name: "basamak",
-    origin: "Yerel/Bozulmuş",
+    origin: "Bozulmuş",
     meaning: "Baskıç, Basmak\r",
   },
   { name: "basım", origin: "Uydurukça", meaning: "Basma\r" },
@@ -887,7 +887,7 @@ export const data = [
   },
   {
     name: "başarmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Üstün çıkmak, Bitirmek, Tüketmek, İşe aşırmak, Atkarmak\r",
   },
   {
@@ -917,7 +917,7 @@ export const data = [
   { name: "bay", origin: "Uydurukça", meaning: "Bey, Ağa\\n\\n" },
   {
     name: "bayağı",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Tuban, Kopal, Topas\r",
   },
   { name: "bayan", origin: "Uydurukça", meaning: "Hanım\r" },
@@ -934,7 +934,7 @@ export const data = [
   { name: "bay bay", origin: "İngilizce", meaning: "Esen kal\r" },
   {
     name: "bayılmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Dalmak, Esinden gitmek, Özünden gitmek\r",
   },
   { name: "baykuş", origin: "Türkçe", meaning: "Ükü, Baykuş\r" },
@@ -948,17 +948,17 @@ export const data = [
   { name: "bebek", origin: "Yerel", meaning: "Çağa, Bebek\r" },
   {
     name: "becermek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Atkarmak, Bütürmek, Onuşlu ödemek, Yerine getirmek, Eplemek\r",
   },
   {
     name: "becerikli",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Atkarıcı, Bütürücü, Epli, Epçil\r",
   },
   {
     name: "beceriklilik",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Atkarıcılık, Bütürücülük, Ep\r",
   },
   {
@@ -981,18 +981,18 @@ export const data = [
   { name: "bedii", origin: "Arapça", meaning: "Görkem\r" },
   {
     name: "beğenmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Yaktırmak, Onamak\r",
   },
   { name: "bekâr", origin: "Arapça", meaning: "Boydak\r" },
   {
     name: "bekçi",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Karavılcı, Gözetçi, Sakçı\r",
   },
   {
     name: "beklemek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Gütmek, Gözlemek\r",
   },
   { name: "beklenti", origin: "Uydurukça", meaning: "Güder\r" },
@@ -1021,10 +1021,10 @@ export const data = [
     origin: "Yerel",
     meaning: "Özüne almak, Özleştirmek, İyelenmek\r",
   },
-  { name: "beniz", origin: "Anlam kayması", meaning: "Bet, Yüz, Ön\r" },
+  { name: "beniz", origin: "Türkçe", meaning: "Bet, Yüz, Ön\r" },
   {
     name: "benzemek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning:
       "Okşamak (Nesne nesneye, insan nesneye), Benzemek (İnsan insana, nesne insana) \r",
   },
@@ -1100,7 +1100,7 @@ export const data = [
   { name: "biçim", origin: "Yerel", meaning: "Tür, Biçim\r" },
   {
     name: "biçmek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(Tahıl için):Ormak, (Kumaş için): Biçmek\r",
   },
   {
@@ -1119,13 +1119,13 @@ export const data = [
     meaning: "Gerisince, Teskerisince, Tersine\r",
   },
   { name: "bildik", origin: "Yerel", meaning: "Tanış\r" },
-  { name: "bile", origin: "Anlam kayması", meaning: "Dahi\r" },
+  { name: "bile", origin: "Türkçe", meaning: "Dahi\r" },
   { name: "bileği", origin: "Yerel", meaning: "Kayrak, Bileği\r" },
   { name: "bileği taşı", origin: "Yerel+Türkçe", meaning: "Kayrak\r" },
   { name: "bilemek", origin: "Yerel", meaning: "Kayramak, Bilemek\r" },
   {
     name: "bilgi",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(Bilme): Bilim, (Malumat): Bilgi \r",
   },
   { name: "bilgin", origin: "Uydurukça", meaning: "Okumuşlu\r" },
@@ -1157,12 +1157,12 @@ export const data = [
   { name: "birçok", origin: "Yerel", meaning: "Bir talay, Birköp\r" },
   {
     name: "birikmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Yığılmak, Toplanmak, Koşulmak\r",
   },
   {
     name: "biriktirmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Dermek, Yığmak, Toplamak\r",
   },
   {
@@ -1189,23 +1189,23 @@ export const data = [
   { name: "bir takım", origin: "Uydurukça", meaning: "Bir nice\r" },
   {
     name: "bitişik",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Yanaş, Yanaşa, Değişik\r",
   },
   {
     name: "bitişmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Yanaşmak, Değişmek\r",
   },
   {
     name: "bitiştirmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Yanaştırmak, Değiştirmek\r",
   },
   { name: "bitki", origin: "Uydurukça", meaning: "Ösümlük\r" },
   {
     name: "bitkin",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Güçsüzlenen, Argın, Çarçayan\r",
   },
   {
@@ -1225,7 +1225,7 @@ export const data = [
   },
   {
     name: "bitmek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning:
       "Bütmek (Tamamlanmak, Sona ermek, Bütün hale gelmek, Eksiksiz olmak), Tükenmek (Kalmamak, Fazlası olmamak, Sonu gelmek)\\n\\n",
   },
@@ -1245,12 +1245,12 @@ export const data = [
   },
   {
     name: "bodur",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Kısa boylu, Kısa\r",
   },
   {
     name: "boğaz",
-    origin: "Anlam genişlemesi ",
+    origin: "Türkçe ",
     meaning: "(Anatomi): Damak, (Coğrafya): Boğaz\r",
   },
   { name: "boğmak", origin: "Yerel", meaning: "Duncukturmak, Boğmak \r" },
@@ -1261,17 +1261,17 @@ export const data = [
     origin: "Farsça",
     meaning: "Kavunluk, Kavun kabaklık\r",
   },
-  { name: "boşalmak", origin: "Anlam kayması", meaning: "Boşamak\r" },
-  { name: "boşaltılmak", origin: "Anlam kayması", meaning: "Boşalmak\r" },
-  { name: "boşaltmak", origin: "Anlam kayması", meaning: "Boşatmak\r" },
+  { name: "boşalmak", origin: "Türkçe", meaning: "Boşamak\r" },
+  { name: "boşaltılmak", origin: "Türkçe", meaning: "Boşalmak\r" },
+  { name: "boşaltmak", origin: "Türkçe", meaning: "Boşatmak\r" },
   {
     name: "boşamak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Ayırmak, Dışlamak\r",
   },
   {
     name: "boşanmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning:
       "Acraşmak, Acralışmak, Ayrılmak, Ayrılışmak, Dışlamak, Dışlaşmak \r",
   },
@@ -1281,7 +1281,7 @@ export const data = [
   { name: "boyut", origin: "Uydurukça", meaning: "Ölçem, Kölem\r" },
   {
     name: "bozdurmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(para) Ufaklamak, Ayırmak\r",
   },
   { name: "bozkır", origin: "Uydurukça", meaning: "Dala\r" },
@@ -1296,7 +1296,7 @@ export const data = [
   { name: "bölge", origin: "Uydurukça", meaning: "Aymak\r" },
   {
     name: "börek",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "İçlek, Katlama\r",
   },
   {
@@ -1307,10 +1307,10 @@ export const data = [
   { name: "bravo", origin: "İtalyanca", meaning: "Yararsın, Yaşa\r" },
   { name: "bronz", origin: "Fransızca", meaning: "Kola, Tunç\r" },
   { name: "broşür", origin: "Fransızca", meaning: "Kitapça, Kitapçık\r" },
-  { name: "bucak", origin: "Anlam kayması", meaning: "Tümen\r" },
+  { name: "bucak", origin: "Türkçe", meaning: "Tümen\r" },
   {
     name: "buçuk",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Yarım, Yarı, Yartı\r",
   },
   { name: "buda", origin: "Sanskritçe", meaning: "Burhan\r" },
@@ -1328,63 +1328,63 @@ export const data = [
   { name: "bulanık", origin: "Yerel", meaning: "Bulancık, Bulancak\r" },
   {
     name: "bulantı",
-    origin: "Anlam genişlemesi ",
+    origin: "Türkçe ",
     meaning: "Yürek aynışı, Gönül aynışı\r",
   },
   {
     name: "bulanmak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning:
       "(Bulaşık hale gelmek, karışmak): Bulanmak, (Midesi bulanmak): Yüreği aynımak, Gönlü aynımak\r",
   },
-  { name: "bulaşıcı", origin: "Anlam genişlemesi", meaning: "Yukumlu\r" },
+  { name: "bulaşıcı", origin: "Türkçe", meaning: "Yukumlu\r" },
   {
     name: "bulaşık",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Kir, Kirli kap\r",
   },
   { name: "bulaşık suyu", origin: "Yerel", meaning: "Yundu\r" },
   {
     name: "bulaşmak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(Kir): Bulanmak, Kirlenmek, (Hastalık, mikrop): Yukmak\r",
   },
   { name: "bulmaca", origin: "Uydurukça", meaning: "Tapışmak\r" },
   {
     name: "bulmak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(Aranılanı): Tapmak, (Yeni bir şeyi): Bulmak, Açmak\r",
   },
   { name: "bulunmak", origin: "Uydurukça", meaning: "Olmak\r" },
   {
     name: "buluşmak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning:
       "1- (Biri birini kaybettiğinde ya da ararken): Tapışmak, Kavuşmak, 2- (Bir yerde tesadüfen ya da randevulaşarak): Uğraşmak, Kezleşmek, Görüşmek, 3- (Yolda karşılaşmak): Yolukmak\r",
   },
   {
     name: "bunalım",
-    origin: "Yerel, Anlam kayması",
+    origin: "Yerel, Türkçe",
     meaning: "Yetmezcilik, Darlık, Sınılış\r",
   },
   {
     name: "bunalmak",
-    origin: "Yerel, Anlam kayması",
+    origin: "Yerel, Türkçe",
     meaning: "Sıkılmak\r",
   },
   {
     name: "bunaltmak",
-    origin: "Yerel, Anlam kayması",
+    origin: "Yerel, Türkçe",
     meaning: "Sıkmak\r",
   },
-  { name: "bunamak", origin: "Anlam kayması", meaning: "Alcımak\r" },
+  { name: "bunamak", origin: "Türkçe", meaning: "Alcımak\r" },
   { name: "bura", origin: "Yerel", meaning: "Bu yer\r" },
   { name: "burada", origin: "Yerel", meaning: "Bu yerde\r" },
   { name: "buradan", origin: "Yerel", meaning: "Bu yerden\r" },
   { name: "buraya", origin: "Yerel", meaning: "Bu yere\r" },
   {
     name: "buruk",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(tat) Acı, Diş kamaştırıcı\r",
   },
   { name: "buse", origin: "Farsça", meaning: "Öpüş\r" },
@@ -1432,7 +1432,7 @@ export const data = [
   },
   {
     name: "caka",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Ulumsunma, Ulumsuluk, Göğüs germe\r",
   },
   {
@@ -1581,17 +1581,17 @@ export const data = [
     origin: "Arapça+Türkçe",
     meaning: "Özüne çekmek, Özüne tartmak\r",
   },
-  { name: "cılız", origin: "Kökeni belirsiz", meaning: "Arık\r" },
+  { name: "cılız", origin: "Belirsiz", meaning: "Arık\r" },
   { name: "cımbız", origin: "Yunanca", meaning: "İskek\r" },
   {
     name: "cırcır böceği",
-    origin: "Kökeni belirsiz+Türkçe",
+    origin: "Belirsiz+Türkçe",
     meaning: "Cırlayık, Cırlak\r",
   },
   { name: "cıva", origin: "Farsça", meaning: "Dirigümüş\r" },
   { name: "cıvata", origin: "İtalyanca", meaning: "Burma\r" },
-  { name: "cıvık", origin: "Kökeni belirsiz", meaning: "Sıvı\r" },
-  { name: "cıvımak", origin: "Kökeni belirsiz", meaning: "Sıvılaşmak\r" },
+  { name: "cıvık", origin: "Belirsiz", meaning: "Sıvı\r" },
+  { name: "cıvımak", origin: "Belirsiz", meaning: "Sıvılaşmak\r" },
   {
     name: "ciddi",
     origin: "Arapça",
@@ -1800,7 +1800,7 @@ export const data = [
   { name: "çakma", origin: "Argo", meaning: "(sahte) Yasama, Yasalma\r" },
   {
     name: "çakmak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning:
       "(Çivi): Kakmak, (Şimşek): Çakmak, Balkımak, Vurmak (Alet):Çakmak\r",
   },
@@ -1814,11 +1814,11 @@ export const data = [
     origin: "Yerel",
     meaning: "Öfke çalmak, Ulumsunmak, Maktanmak, Güvenmek\r",
   },
-  { name: "çalışmak", origin: "Anlam kayması", meaning: "İşlemek\r" },
+  { name: "çalışmak", origin: "Türkçe", meaning: "İşlemek\r" },
   { name: "çalkalamak", origin: "Yerel", meaning: "Çalkamak\r" },
   {
     name: "çalmak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(Hırsızlık): Uğrulamak, (saz): Çalmak\r",
   },
   { name: "çam", origin: "Yerel", meaning: "Karagay, Çırşı, Arca\r" },
@@ -1838,7 +1838,7 @@ export const data = [
     meaning: "Kir yumak, Kirli (-leri) yumak\r",
   },
   { name: "çamur", origin: "Yerel", meaning: "Batak, Balçık\r" },
-  { name: "çan", origin: "Anlam kayması", meaning: "Kongurak\r" },
+  { name: "çan", origin: "Türkçe", meaning: "Kongurak\r" },
   { name: "çanta", origin: "Farsça", meaning: "Bohça, Boğcum\r" },
   { name: "çap", origin: "Ermenice", meaning: "Ok\r" },
   { name: "çapa", origin: "Yerel", meaning: "Çapkı, Ketmen\r" },
@@ -1864,10 +1864,10 @@ export const data = [
   },
   {
     name: "çapulcu",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Talancı, Karakçı, Yolbasar, Yoltosar, Tonakçı, \r",
   },
-  { name: "çaput", origin: "Anlam kayması", meaning: "Eski püskü\r" },
+  { name: "çaput", origin: "Türkçe", meaning: "Eski püskü\r" },
   { name: "çare", origin: "Farsça", meaning: "Em, Yol\r" },
   { name: "çare olmak", origin: "Farsça+Türkçe", meaning: "Em olmak\r" },
   {
@@ -1907,7 +1907,7 @@ export const data = [
   },
   {
     name: "çatal",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "(yemek için) Sançkı\\n\\n",
   },
   { name: "çatı", origin: "Yerel", meaning: "Dam, Çatı\r" },
@@ -1934,7 +1934,7 @@ export const data = [
   },
   {
     name: "çekilmek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning:
       "(Geri çekilmek): Çekinmek, (Başkasınca çekilmek): Çekilmek, Tartılmak\r",
   },
@@ -2018,12 +2018,12 @@ export const data = [
   { name: "çetin", origin: "Yerel", meaning: "Kın, Ağır\r" },
   {
     name: "çetrefil",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Dolaşık, Bulaşık, Çatak\r",
   },
   {
     name: "çevik",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Tetik, Epçil, Çakkan\r",
   },
   {
@@ -2057,7 +2057,7 @@ export const data = [
     origin: "Farsça",
     meaning: "Dörtte bir, Dörtten biri\r",
   },
-  { name: "çığ", origin: "Kökeni belirsiz", meaning: "Göçkün, Göçkü\r" },
+  { name: "çığ", origin: "Belirsiz", meaning: "Göçkün, Göçkü\r" },
   {
     name: "çığlık",
     origin: "Yerel",
@@ -2085,7 +2085,7 @@ export const data = [
   },
   {
     name: "çıkışmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Dillemek, Arlamak, İrdemek, Vuruşmak\r",
   },
   {
@@ -2142,7 +2142,7 @@ export const data = [
   },
   {
     name: "çiğnemek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(ayakla) Tepelemek, Taplamak, Ezmek, Basalamak\r",
   },
   { name: "çiklet", origin: "İspanyolca", meaning: "Sakız\r" },
@@ -2182,12 +2182,12 @@ export const data = [
   { name: "çobanyıldızı", origin: "Farsça+Türkçe", meaning: "Çolpan\r" },
   {
     name: "çocuk",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Bala, Çağa, Uşak, Gödek\r",
   },
   {
     name: "çoğalmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Köpelmek, Artmak, Ösmek\r",
   },
   {
@@ -2201,7 +2201,7 @@ export const data = [
     origin: "Uydurukça",
     meaning: "Köplük, Köpçülük\r",
   },
-  { name: "çok", origin: "Anlam kayması", meaning: "Köp, Öte\r" },
+  { name: "çok", origin: "Türkçe", meaning: "Köp, Öte\r" },
   { name: "çokgen", origin: "Uydurukça", meaning: "Köpbucak\r" },
   {
     name: "çokluk",
@@ -2237,14 +2237,14 @@ export const data = [
   { name: "çüs", origin: "Almanca", meaning: "(hoşça kal) Esen kal\r" },
   {
     name: "dadanmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Könükmek, Yaman öğrenmek\r",
   },
   { name: "dadı", origin: "Farsça", meaning: "Eneke, Bala bakıcısı\r" },
   { name: "dağ", origin: "Farsça", meaning: "(yara) Yara\r" },
   { name: "dağarcık", origin: "Yerel", meaning: "Deri kapçık, Kapçık\r" },
-  { name: "dağılmak", origin: "Anlam kayması", meaning: "Dağımak\r" },
-  { name: "dağıtılmak", origin: "Anlam kayması", meaning: "Dağılmak\r" },
+  { name: "dağılmak", origin: "Türkçe", meaning: "Dağımak\r" },
+  { name: "dağıtılmak", origin: "Türkçe", meaning: "Dağılmak\r" },
   {
     name: "dağlamak",
     origin: "Farsça+Türkçe",
@@ -2252,7 +2252,7 @@ export const data = [
   },
   {
     name: "daha",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(sıfat derecesi) -rak, -rek\r",
   },
   { name: "dâhili", origin: "Arapça", meaning: "İçki, İçlik\r" },
@@ -2269,7 +2269,7 @@ export const data = [
     meaning: "(geometri) Değrek, Teker\\n\\n",
   },
   { name: "dakik", origin: "Arapça", meaning: "Anık, Tayın\r" },
-  { name: "dal", origin: "Anlam kayması", meaning: "Budak\\n\\n" },
+  { name: "dal", origin: "Türkçe", meaning: "Budak\\n\\n" },
   {
     name: "dalalet",
     origin: "Arapça",
@@ -2277,33 +2277,33 @@ export const data = [
   },
   {
     name: "dalamak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(kurt köpek ısırmak) Kapmak, Dişlemek\\n\\n",
   },
   {
     name: "dalavere",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Kuvluk, Arabozuculuk, Aldamcılık\r",
   },
   {
     name: "dalga",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(Deniz, göl): Tolkun, (Alay): Üstünden gülme\r",
   },
   {
     name: "dalga geçmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Üstünden gülmek\r",
   },
   {
     name: "dalgalanmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Tolkunlamak, Tolkunlanmak, Tolkumak\r",
   },
   { name: "dalgıç", origin: "Uydurukça", meaning: "Sucul, Çimici\r" },
   {
     name: "dalgın",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Unutkan, Unutçak\r",
   },
   {
@@ -2319,13 +2319,13 @@ export const data = [
   },
   {
     name: "dalmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(suya) Çimmek\\n\\n",
   },
-  { name: "dam", origin: "Anlam kayması", meaning: "Çatı, Ev tepesi\r" },
-  { name: "damak", origin: "Anlam kayması", meaning: "Danlay\r" },
+  { name: "dam", origin: "Türkçe", meaning: "Çatı, Ev tepesi\r" },
+  { name: "damak", origin: "Türkçe", meaning: "Danlay\r" },
   { name: "damat", origin: "Farsça", meaning: "Güvey, Küreken\r" },
-  { name: "damızlık", origin: "Anlam kayması", meaning: "Asıl döl\r" },
+  { name: "damızlık", origin: "Türkçe", meaning: "Asıl döl\r" },
   { name: "damla", origin: "Yerel", meaning: "Damcı\r" },
   { name: "damlamak", origin: "Yerel", meaning: "Dammak, Damcılamak\r" },
   {
@@ -2376,7 +2376,7 @@ export const data = [
   },
   {
     name: "davar",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Ufak mal, Koyun keçi\r",
   },
   { name: "davet", origin: "Arapça", meaning: "Çağrı\r" },
@@ -2393,7 +2393,7 @@ export const data = [
   },
   {
     name: "dayak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(dövme) Vurma, Sokma, Kötekleme\\n\\n",
   },
   {
@@ -2428,7 +2428,7 @@ export const data = [
   },
   {
     name: "dayı",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(arka, hami) Arka dayanç, Arkalayıcı\r",
   },
   {
@@ -2480,33 +2480,33 @@ export const data = [
   },
   {
     name: "değerlendirmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(tenkit, eleştiri) Sın vermek, Sın yazmak, Sınamak, Sınlamak\r",
   },
   { name: "değinmek", origin: "Yerel", meaning: "Değmek, Takılmak\r" },
   {
     name: "değişik",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Ayrım, Özgece, Başkaca\r",
   },
   {
     name: "değişim",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(mübadele) Alışma, Almaşma\\n\\n",
   },
   {
     name: "değişken",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Özgerişli, Özgericen, Tez özgericen, Duruksuz \r",
   },
   {
     name: "değişmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(farklılaşmak) Özgermek, Başkalaşmak\\n\\n",
   },
   {
     name: "değiştirmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(farklılaştırmak) Özgertmek, Başkalaştırmak\\n\\n",
   },
   { name: "değnek", origin: "Yerel", meaning: "Çubuk, Dayakça\r" },
@@ -2592,12 +2592,12 @@ export const data = [
   },
   {
     name: "deneme",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(tecrübe) Sınav, Tekşiriş\r",
   },
   {
     name: "denemek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Sınamak, Tekşirmek\r",
   },
   { name: "denetçi", origin: "Uydurukça", meaning: "Tekşirici\r" },
@@ -2707,7 +2707,7 @@ export const data = [
   { name: "deşelemek", origin: "Yerel", meaning: "Çukulamak\r" },
   {
     name: "deşmek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Çukmak (yeri, toprağı), Deşmek\r",
   },
   {
@@ -2775,12 +2775,12 @@ export const data = [
   { name: "dibek", origin: "Yerel", meaning: "Soku\r" },
   {
     name: "didinmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Dırışmak, Cantalaşmak, Gücenip işlemek, Can ayamadan işlemek\r",
   },
   {
     name: "didişmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Dalaşmak, Tartışmak, Diyişmek, Kışkırışmak\r",
   },
   { name: "difüzyon", origin: "Fransızca", meaning: "Aralaşma\r" },
@@ -2818,7 +2818,7 @@ export const data = [
   { name: "dimağ", origin: "Arapça", meaning: "Es, An\r" },
   {
     name: "dinç",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Dın, Sağdın, Sağ, Sağlam, Sağat, Esen\r",
   },
   { name: "dindar", origin: "Farsça", meaning: "Dincil\r" },
@@ -2828,7 +2828,7 @@ export const data = [
     origin: "Yerel",
     meaning: "Toktamak, Ayaklamak, Dinmek\r",
   },
-  { name: "dipçik", origin: "Anlam kayması", meaning: "Kundak\r" },
+  { name: "dipçik", origin: "Türkçe", meaning: "Kundak\r" },
   {
     name: "dipnot",
     origin: "Uydurukça",
@@ -2960,7 +2960,7 @@ export const data = [
     origin: "İspanyolca",
     meaning: "Kızanak, Alyumur\r",
   },
-  { name: "don", origin: "Anlam kayması", meaning: "İç don, İştan\r" },
+  { name: "don", origin: "Türkçe", meaning: "İç don, İştan\r" },
   { name: "donanma", origin: "Uydurukça", meaning: "Deniz filosu, \r" },
   { name: "donanmak", origin: "Yerel", meaning: "Bezenmek, Yasanmak\r" },
   {
@@ -3015,7 +3015,7 @@ export const data = [
   { name: "döner", origin: "Yerel", meaning: "Aylanma kebap\r" },
   {
     name: "dönmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(etrafında) Aylanmak, Evrilmek\\n\\n",
   },
   { name: "dönüşlü", origin: "Yerel", meaning: "(fiil) Özlük, Kaytım\r" },
@@ -3027,16 +3027,16 @@ export const data = [
   },
   {
     name: "dövmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(birisini) Vurmak\\n\\n",
   },
   {
     name: "dövünmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Kayırmak, Ökünmek, Kan yutmak, Saçını yolmak\r",
   },
   { name: "dubleks", origin: "Fransıca", meaning: "İki katlı ev\r" },
-  { name: "dudak", origin: "Anlam kayması", meaning: "Erin\r" },
+  { name: "dudak", origin: "Türkçe", meaning: "Erin\r" },
   { name: "duman", origin: "Farsça", meaning: "Tütün, Tütsü, İs\r" },
   { name: "durak", origin: "Yerel", meaning: "Beket, Toktalış\r" },
   { name: "duraklamak", origin: "Yerel", meaning: "Toktalmak\r" },
@@ -3053,7 +3053,7 @@ export const data = [
   },
   {
     name: "durmak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning:
       "(Yerinde sabit olmak, varlığını korumak): Durmak, (Hareketsiz hale gelmek): Toktamak, Dinmek\r",
   },
@@ -3076,17 +3076,17 @@ export const data = [
   { name: "duygu", origin: "Yerel", meaning: "Duygu, Sezgi \r" },
   {
     name: "duymak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(kulak) İşitmek\\n\\n",
   },
   { name: "duyu", origin: "Uydurukça", meaning: "Duygu, Sezgi\r" },
   { name: "duyuru", origin: "Uydurukça", meaning: "Bildiri, Yarlık\r" },
   { name: "düğüm", origin: "Yerel", meaning: "Düğün\r" },
-  { name: "düğün", origin: "Anlam kayması", meaning: "Toy\r" },
+  { name: "düğün", origin: "Türkçe", meaning: "Toy\r" },
   { name: "dükkân", origin: "Arapça", meaning: "Kepit\r" },
   { name: "dülger", origin: "Farsça", meaning: "Ağaççı\r" },
   { name: "dümen", origin: "İtalyanca", meaning: "Tutka\r" },
-  { name: "dün", origin: "Anlam kayması", meaning: "Gece\r" },
+  { name: "dün", origin: "Türkçe", meaning: "Gece\r" },
   {
     name: "dünür",
     origin: "Yerel",
@@ -3104,30 +3104,30 @@ export const data = [
   { name: "düşmanlık", origin: "Farsça+Türkçe", meaning: "Yağılık\r" },
   {
     name: "düşmek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(yukarıdan): Düşmek, (yerde): Yıkılmak, Kulamak\r",
   },
   {
     name: "düşünce",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning:
       "(Kişinin kendi kafasında olan):Oy, (Bir şey anlatılıp izah edildikten sonra oluşan): Düşünce, Düşünük\r",
   },
   {
     name: "düşünmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Oylamak, Oylanmak\r",
   },
   { name: "düşünür", origin: "Uydurukça", meaning: "Oycul\r" },
   { name: "düven", origin: "Yerel", meaning: "Tuluk, Tokmak\r" },
   {
     name: "düz",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(yüzey) Düz, Tekiz\\n\\n",
   },
   {
     name: "düzelmek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning:
       "(düz, düzgün hale gelmek): düzelmek, (sağlığına kavuşmak): Onalmak, Onulmak\r",
   },
@@ -3227,7 +3227,7 @@ export const data = [
   },
   {
     name: "eğe",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(kemik) Kaburga\\n\\n",
   },
   {
@@ -3242,7 +3242,7 @@ export const data = [
   },
   {
     name: "eğlenmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Ermeklemek, Gönül açmak, Oynamak-gülmek\\n\\n",
   },
   {
@@ -3307,7 +3307,7 @@ export const data = [
   { name: "ekvator", origin: "Fransızca", meaning: "Deniştirgiç\r" },
   {
     name: "el",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(yurt, ülke) Ülke, yurt\\n\\n",
   },
   { name: "ela", origin: "Yerel", meaning: "Ala, Çakır\r" },
@@ -3323,7 +3323,7 @@ export const data = [
   { name: "eldiven", origin: "Yerel", meaning: "Elkabı\r" },
   {
     name: "elebaşı",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Başlık, Başçı\r",
   },
   {
@@ -3461,17 +3461,17 @@ export const data = [
   },
   {
     name: "engel",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Tosuk, Tosalgı, Büğet\r",
   },
   {
     name: "engellemek",
-    origin: "Kökeni belirsiz+Türkçe",
+    origin: "Belirsiz+Türkçe",
     meaning: "Tosmak, Büğet olmak, Önünü almak\r",
   },
   {
     name: "engel olmak",
-    origin: "Kökeni belirsiz+Türkçe",
+    origin: "Belirsiz+Türkçe",
     meaning: "Tosmak, Büğet olmak, Önünü almak\r",
   },
   {
@@ -3493,7 +3493,7 @@ export const data = [
   { name: "entelektüel", origin: "Fransızca", meaning: "Oycul\r" },
   {
     name: "entari",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Kadın gömleği\r",
   },
   {
@@ -3524,15 +3524,15 @@ export const data = [
   },
   {
     name: "er",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(asker) Çeri\\n\\n",
   },
   { name: "erbap", origin: "Arapça", meaning: "Çeber, Bilgiç\r" },
   { name: "erek", origin: "Uydurukça", meaning: "Dilek\r" },
-  { name: "erik", origin: "Anlam kayması", meaning: "Alça\r" },
+  { name: "erik", origin: "Türkçe", meaning: "Alça\r" },
   {
     name: "erişmek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Yetmek, Ermek, Erişmek\r",
   },
   { name: "erişte", origin: "Farsça", meaning: "Kesme, Tokmaç\r" },
@@ -3551,7 +3551,7 @@ export const data = [
   },
   {
     name: "ertesi",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Geyinki, Gelecek, Gelesi\r",
   },
   { name: "erzak", origin: "Arapça", meaning: "Azık, Yol azığı\r" },
@@ -3603,7 +3603,7 @@ export const data = [
   { name: "eskiz", origin: "Fransızca", meaning: "Çıkarma, Ülgü\r" },
   {
     name: "esmek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Esmek, Yelpimek\r",
   },
   {
@@ -3615,13 +3615,13 @@ export const data = [
   { name: "esnek", origin: "Uydurukça", meaning: "Sozulmalı\r" },
   {
     name: "esnemek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(İnsan): Esnemek, (Nesne): Gerilmek, Sozulmak\r",
   },
   { name: "esrarengiz", origin: "Arapça+Farsça", meaning: "Sırlı\r" },
   {
     name: "eş",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(çiftten biri) Sınar, Eş, Denk\\n\\n",
   },
   { name: "eş anlamlı", origin: "Uydurukça", meaning: "Manadaş\r" },
@@ -3637,7 +3637,7 @@ export const data = [
   },
   {
     name: "eşik",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(kapı önü basamağı) Bosağa\r",
   },
   { name: "eşinmek", origin: "Yerel", meaning: "Tepinmek\r" },
@@ -3690,12 +3690,12 @@ export const data = [
   { name: "ettirgen", origin: "Uydurukça", meaning: "(fiil) Yükletme\r" },
   {
     name: "evcil",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Ele öğretilen, Ev hayvanı\r",
   },
   {
     name: "evcilleşmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Ele öğrenmek\r",
   },
   {
@@ -3718,13 +3718,13 @@ export const data = [
   },
   {
     name: "evlenmek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning:
       "(Genel): Evlenmek, Yuva kurmak, Durmuş kurmak, (Erkek): Evlenmek, (Kız): Erlenmek, Ere değmek, Güveye çıkmak, Durmuşa çıkmak\r",
   },
   {
     name: "evli",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(Genel): Evli, (Erkek): Evli, (Kız): Erli, Durmuşa çıkan\r",
   },
   { name: "evliya", origin: "Arapça", meaning: "Eren, Gözüaçık\r" },
@@ -3767,7 +3767,7 @@ export const data = [
     origin: "Arapça",
     meaning: "Bengilikten, Uçsuz Kıraksız\r",
   },
-  { name: "ezgi", origin: "Kökeni belirsiz", meaning: "Küy\r" },
+  { name: "ezgi", origin: "Belirsiz", meaning: "Küy\r" },
   { name: "eziyet", origin: "Arapça", meaning: "Kısım, Sıkış, Eziş\r" },
   {
     name: "ezmek",
@@ -4056,7 +4056,7 @@ export const data = [
   { name: "fıkıh", origin: "Arapça", meaning: "İslam hukuku\r" },
   {
     name: "fıkırdamak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(cilvelenmek) Erseklenmek, Kılıklanmak\r",
   },
   { name: "fıkra", origin: "Arapça", meaning: "Güldürgü\\n\\n" },
@@ -4123,12 +4123,12 @@ export const data = [
   },
   {
     name: "fiske",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Çırtkı, Çırtış\r",
   },
   {
     name: "fiske vurmak",
-    origin: "Kökeni belirsiz+Türkçe",
+    origin: "Belirsiz+Türkçe",
     meaning: "Çırtmak\r",
   },
   { name: "fiskos", origin: "Yerel", meaning: "Şavurlaşma\r" },
@@ -4285,10 +4285,10 @@ export const data = [
     origin: "Fransızca+Türkçe",
     meaning: "Orunsuz iş etmek, Orunsuz söz söylemek\r",
   },
-  { name: "gaga", origin: "Kökeni belirsiz", meaning: "Tumşuk\r" },
+  { name: "gaga", origin: "Belirsiz", meaning: "Tumşuk\r" },
   {
     name: "gagalamak",
-    origin: "Kökeni belirsiz+Türkçe",
+    origin: "Belirsiz+Türkçe",
     meaning: "Çokumak, Çokulamak\r",
   },
   { name: "gaile", origin: "Arapça", meaning: "Kaygı\r" },
@@ -4400,17 +4400,17 @@ export const data = [
     origin: "Yerel",
     meaning: "(insan) Yüklenmek, Bala götürmek\r",
   },
-  { name: "gece", origin: "Anlam kayması", meaning: "Dün\r" },
+  { name: "gece", origin: "Türkçe", meaning: "Dün\r" },
   { name: "gecekondu", origin: "Yerel", meaning: "Alaçık, Evcik\r" },
-  { name: "gecelemek", origin: "Anlam kayması", meaning: "Dünemek\r" },
+  { name: "gecelemek", origin: "Türkçe", meaning: "Dünemek\r" },
   {
     name: "geceleyin",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Dünen, Dünde\r",
   },
   {
     name: "gecelik",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Dünlük gömlek\r",
   },
   {
@@ -4458,13 +4458,13 @@ export const data = [
   { name: "geçiştirmek", origin: "Yerel", meaning: "Savuşturmak\r" },
   {
     name: "geçmek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning:
       "(zaman): Ötmek, (yanından): Ötmek, (içinden, karşıya): Geçmek, (ileri, öne) : Ozmak, (üstünden, aşarak): Aşmak \r",
   },
   {
     name: "geçmiş",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(önceki, evvelki) Öten, Burunki, İleri\\n\\n",
   },
   {
@@ -4474,7 +4474,7 @@ export const data = [
   },
   {
     name: "gelecek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(istikbal, ati) Gelecek\\n\\n",
   },
   { name: "gelenek", origin: "Uydurukça", meaning: "Yola\r" },
@@ -4497,12 +4497,12 @@ export const data = [
   },
   {
     name: "gelişme",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Ösüş, Ala varış, Yetilme\r",
   },
   {
     name: "gelişmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Ösmek, Ala varmak, Yetilmek\r",
   },
   { name: "gem", origin: "Yunanca", meaning: "Ağızdırık, Ağızlık\r" },
@@ -4632,7 +4632,7 @@ export const data = [
   },
   {
     name: "gerilmek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Gerilmek, Tartılmak, Sozulmak\r",
   },
   { name: "gerinmek", origin: "Yerel", meaning: "Gerilmek, Sozulmak\r" },
@@ -4657,10 +4657,10 @@ export const data = [
     meaning: "Söyleklik etmek, Ezmelik etmek\r",
   },
   { name: "geviş getirmek", origin: "Yerel", meaning: "Gevşemek\r" },
-  { name: "gevşek", origin: "Anlam kayması", meaning: "Boş, Boşan\r" },
-  { name: "gevşemek", origin: "Anlam kayması", meaning: "Boşamak\r" },
-  { name: "gevşetmek", origin: "Anlam kayması", meaning: "Boşatmak\r" },
-  { name: "geyik", origin: "Anlam kayması", meaning: "Buğu, Bulan\r" },
+  { name: "gevşek", origin: "Türkçe", meaning: "Boş, Boşan\r" },
+  { name: "gevşemek", origin: "Türkçe", meaning: "Boşamak\r" },
+  { name: "gevşetmek", origin: "Türkçe", meaning: "Boşatmak\r" },
+  { name: "geyik", origin: "Türkçe", meaning: "Buğu, Bulan\r" },
   {
     name: "gezgin",
     origin: "Uydurukça",
@@ -4729,14 +4729,14 @@ export const data = [
   },
   {
     name: "gitmek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Gitmek, Varmak\r",
   },
   { name: "giyecek", origin: "Yerel", meaning: "Giyim, Giyim gecek\r" },
   { name: "giysi", origin: "Yerel", meaning: "Giyim, Giyim gecek\r" },
-  { name: "gizlemek", origin: "Anlam kayması", meaning: "Yaşırmak\r" },
-  { name: "gizlenmek", origin: "Anlam kayması", meaning: "Yaşırınmak\r" },
-  { name: "gizli", origin: "Anlam kayması", meaning: "Yaşırın, Yaşın\r" },
+  { name: "gizlemek", origin: "Türkçe", meaning: "Yaşırmak\r" },
+  { name: "gizlenmek", origin: "Türkçe", meaning: "Yaşırınmak\r" },
+  { name: "gizli", origin: "Türkçe", meaning: "Yaşırın, Yaşın\r" },
   { name: "glokom", origin: "Latince", meaning: "Karasu\r" },
   { name: "gocuk", origin: "Bulgarca", meaning: "Kısa don, Çolak don\r" },
   {
@@ -4747,7 +4747,7 @@ export const data = [
   { name: "gonca", origin: "Farsça", meaning: "Çiçek düğmesi\r" },
   {
     name: "göbek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(organ) Kindik\\n\\n",
   },
   { name: "göçebe", origin: "Yerel", meaning: "Göçmen\r" },
@@ -4772,14 +4772,14 @@ export const data = [
   { name: "göktaşı", origin: "Uydurukça", meaning: "Kuyruklu yıldız\r" },
   {
     name: "gömmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning:
       "(defnetmek, ölüyü gömmek) Yerlemek, Yere vermek, Toprağa vermek, Gömmek\r",
   },
   { name: "gönder", origin: "Yunanca", meaning: "Bayrak sapı\r" },
   {
     name: "göndermek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Yollamak, Yönetmek, Yobarmak\r",
   },
   {
@@ -4888,7 +4888,7 @@ export const data = [
   },
   {
     name: "götürmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Aparmak, Egitmek, Alıp varmak, Alıp gitmek, Yetirmek, İletmek\r",
   },
   { name: "gövde", origin: "Uydurukça", meaning: "(dilbilgisi) Neğiz\r" },
@@ -4920,7 +4920,7 @@ export const data = [
   },
   {
     name: "gözetmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Bakmak, Karamak, Asramak\r",
   },
   { name: "gözetmen", origin: "Uydurukça", meaning: "Gözetici\r" },
@@ -5008,15 +5008,15 @@ export const data = [
   { name: "gübre", origin: "Yunanca", meaning: "Kön, Kığ\r" },
   {
     name: "gücenmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Darınmak, İncimek, İncinmek, Öfkelemek\r",
   },
   {
     name: "güç",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(zor) Kın, Ağır, Çetin\r",
   },
-  { name: "güç bela", origin: "Anlam kayması", meaning: "Kınlıkla\r" },
+  { name: "güç bela", origin: "Türkçe", meaning: "Kınlıkla\r" },
   { name: "güdüm", origin: "Uydurukça", meaning: "Başarı\r" },
   {
     name: "güdümlü",
@@ -5055,7 +5055,7 @@ export const data = [
   },
   {
     name: "gür",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Kalın, Bol, Koyu, Yoğun\r",
   },
   {
@@ -5065,7 +5065,7 @@ export const data = [
   },
   {
     name: "gütmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning:
       "(hayvan) Mal bakmak, Mal yaymak, Mal gütmek, Bakmak, Yaymak\\n\\n",
   },
@@ -5076,10 +5076,10 @@ export const data = [
     origin: "Uydurukça",
     meaning: "Öz adına işanç bildirmek, Öz adına bel bağlatmak\r",
   },
-  { name: "güvenç", origin: "Anlam kayması", meaning: "İşanç\r" },
+  { name: "güvenç", origin: "Türkçe", meaning: "İşanç\r" },
   {
     name: "güvenilir",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "İşançlı, İşanımlı\r",
   },
   {
@@ -5089,7 +5089,7 @@ export const data = [
   },
   {
     name: "güvenmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "İşanmak, Bel bağlamak\r",
   },
   { name: "güvenoyu", origin: "Uydurukça", meaning: "İşanç bildirme\r" },
@@ -5349,7 +5349,7 @@ export const data = [
   },
   {
     name: "hani",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(hatırlatma) Esinde mi?\r",
   },
   {
@@ -5825,12 +5825,12 @@ export const data = [
   { name: "henüz", origin: "Farsça", meaning: "Daha, İndek\r" },
   {
     name: "hep",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Üzülüksüz, Her haçan\r",
   },
   {
     name: "hepsi",
-    origin: "Anlam kayması ",
+    origin: "Türkçe ",
     meaning: "Varı, Varcası, Varlığı, Bütünü, Yalpısı\r",
   },
   { name: "her", origin: "Farsça", meaning: "(zaman) (zaman) sayın\r" },
@@ -5936,7 +5936,7 @@ export const data = [
   { name: "hırka", origin: "Arapça", meaning: "Torçeket\r" },
   {
     name: "hırpalamak",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Kağşatmak, Yençmek, İşten çıkarmak\r",
   },
   { name: "hırs", origin: "Arapça", meaning: "Inta, Intık\r" },
@@ -6112,7 +6112,7 @@ export const data = [
   { name: "hoca", origin: "Farsça", meaning: "(öğretmen) Okutucu\r" },
   {
     name: "hodri meydan",
-    origin: "Yerel+Kökeni Belirsiz+Farsça",
+    origin: "Yerel+Belirsiz+Farsça",
     meaning: "Hani! \\nÇık! \\nÇık ortaya! \\nGel beri! \\nGüç sınaşalım! \r",
   },
   { name: "hokka", origin: "Arapça", meaning: "Kara savıtı\r" },
@@ -6129,7 +6129,7 @@ export const data = [
   { name: "homojen", origin: "Fransızca", meaning: "Birtürlü\r" },
   { name: "homurdanmak", origin: "Yerel", meaning: "Mırıldanmak\r" },
   { name: "homurtu", origin: "Yerel", meaning: "Mırıltı\r" },
-  { name: "hop", origin: "Kökeni belirsiz", meaning: "Ey, Dur, Tokta\r" },
+  { name: "hop", origin: "Belirsiz", meaning: "Ey, Dur, Tokta\r" },
   {
     name: "hoparlör",
     origin: "Fransızca",
@@ -6137,7 +6137,7 @@ export const data = [
   },
   {
     name: "hoplamak",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Sekirmek, Irgamak, Kalgımak\r",
   },
   { name: "hor", origin: "Farsça", meaning: "Tuban\r" },
@@ -6160,12 +6160,12 @@ export const data = [
   },
   {
     name: "hortlak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Kan soğurucu, Kan içkiç, Obur\r",
   },
   {
     name: "hortlamak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Ölümden dirilmek, Kayra dirilmek\r",
   },
   {
@@ -6404,12 +6404,12 @@ export const data = [
   },
   {
     name: "ıska",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Düz atmama, Değdirmezlik, Yan vurma\r",
   },
   {
     name: "ıskalamak",
-    origin: "Kökeni belirsiz+Türkçe",
+    origin: "Belirsiz+Türkçe",
     meaning: "Düz atmamak, Değdirmemek, Yan vurmak\r",
   },
   {
@@ -6595,7 +6595,7 @@ export const data = [
   },
   {
     name: "içmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(sigara, puro vb…) Çekmek\r",
   },
   { name: "içten", origin: "Yerel", meaning: "Çın yürekten\r" },
@@ -6792,10 +6792,10 @@ export const data = [
   },
   {
     name: "iğne yapmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Em salmak\r",
   },
-  { name: "iğrenç", origin: "Anlam kayması", meaning: "İğrençli\r" },
+  { name: "iğrenç", origin: "Türkçe", meaning: "İğrençli\r" },
   {
     name: "ihale",
     origin: "Arapça",
@@ -7001,7 +7001,7 @@ export const data = [
   },
   { name: "ikaz", origin: "Arapça", meaning: "Eskerti\r" },
   { name: "ikaz etmek", origin: "Arapça+Türkçe", meaning: "Eskertmek\r" },
-  { name: "iken", origin: "Anlam kayması", meaning: "-anda, -ende \r" },
+  { name: "iken", origin: "Türkçe", meaning: "-anda, -ende \r" },
   { name: "iklim", origin: "Arapça", meaning: "Hava ırası\r" },
   { name: "ikmal", origin: "Arapça", meaning: "Bütürme, Ayaklama\r" },
   {
@@ -7079,7 +7079,7 @@ export const data = [
     meaning: "Kandırırlık, Yeterliklilik\r",
   },
   { name: "iktisadi", origin: "Arapça", meaning: "İktisatlık\r" },
-  { name: "il", origin: "Anlam kayması", meaning: "Oymak\r" },
+  { name: "il", origin: "Türkçe", meaning: "Oymak\r" },
   { name: "ilaç", origin: "Arapça", meaning: "Em\r" },
   {
     name: "ilaçlamak",
@@ -7113,15 +7113,15 @@ export const data = [
     origin: "Arapça",
     meaning: "Bengi, Bengiye, Bengilik\r",
   },
-  { name: "ilenç", origin: "Anlam kayması", meaning: "Kargış\r" },
+  { name: "ilenç", origin: "Türkçe", meaning: "Kargış\r" },
   {
     name: "ilenmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Kargımak, Kargışlamak\r",
   },
   {
     name: "ileri",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Ala, Aldına, Öne, İleri\r",
   },
   {
@@ -7131,7 +7131,7 @@ export const data = [
   },
   {
     name: "ilerlemek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Ala varmak, Ala gitmek, İlerilemek\r",
   },
   { name: "iletişim", origin: "Uydurukça", meaning: "Bağlanış\r" },
@@ -7402,12 +7402,12 @@ export const data = [
   },
   {
     name: "inanç",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(güven, bel bağlama): İşanç, (iman, akide): İnanç\r",
   },
   {
     name: "inanmak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(güvenmek, bel bağlamak): İşanmak, (iman, etmek): İnanmak\r",
   },
   {
@@ -7422,7 +7422,7 @@ export const data = [
   },
   {
     name: "ince",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(katına): yufka, (boyuna): ince\r",
   },
   {
@@ -7432,7 +7432,7 @@ export const data = [
   },
   {
     name: "incelmek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Yufkalmak, İncelmek\r",
   },
   {
@@ -7453,7 +7453,7 @@ export const data = [
   },
   {
     name: "inek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(genel): Sığır, Uy, (erkek): Boğa, (dişi): İnek\r",
   },
   {
@@ -7631,7 +7631,7 @@ export const data = [
   },
   {
     name: "irkilmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Ürkmek, Ürküp çekinmek\r",
   },
   { name: "irmik", origin: "Yerel", meaning: "Yarma, Talkan\r" },
@@ -7902,7 +7902,7 @@ export const data = [
     origin: "Arapça+Türkçe",
     meaning: "Kozgalmak, Göterilmek, Baş götermek\r",
   },
-  { name: "iş", origin: "Anlam genişlemesi", meaning: "İş, Yumuş\r" },
+  { name: "iş", origin: "Türkçe", meaning: "İş, Yumuş\r" },
   {
     name: "iş adamı",
     origin: "Türkçe+Arapça",
@@ -7936,7 +7936,7 @@ export const data = [
   },
   {
     name: "işçi",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "İşçi, Yumuşçu\r",
   },
   { name: "işemek", origin: "Yerel", meaning: "Siymek\r" },
@@ -7980,12 +7980,12 @@ export const data = [
   },
   {
     name: "işleme",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(nakış, oya vb…) Keşte\r",
   },
   {
     name: "işlemek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(nakış, oya vb…) Keştelemek\r",
   },
   { name: "işletme", origin: "Uydurukça", meaning: "İş ornu\\n\\n" },
@@ -8168,7 +8168,7 @@ export const data = [
   },
   {
     name: "izlemek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning:
       "(peşinden gitmek, takip etmek): İzlemek, Ardında düşmek, (seyretmek, temaşa etmek): Karamak\r",
   },
@@ -8222,7 +8222,7 @@ export const data = [
   { name: "jübile", origin: "Fransızca", meaning: "Mücel toyu\r" },
   { name: "jüpiter", origin: "Latince", meaning: "Erendiz\r" },
   { name: "jüri", origin: "İngilizce", meaning: "Töreci\r" },
-  { name: "kaba", origin: "Anlam kayması", meaning: "Kopal, Don\r" },
+  { name: "kaba", origin: "Türkçe", meaning: "Kopal, Don\r" },
   { name: "kabadayı", origin: "Yerel", meaning: "Yiğit, Çatak\r" },
   { name: "kabahat", origin: "Arapça", meaning: "Yazık, Kılık\r" },
   { name: "kabız", origin: "Arapça", meaning: "İç katıma\r" },
@@ -8260,7 +8260,7 @@ export const data = [
   { name: "kabza", origin: "Arapça", meaning: "Sap, Tutak, Tutkuç\r" },
   {
     name: "kaçak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(insan): Kaçkın, (mal): Kaçak\r",
   },
   {
@@ -8410,7 +8410,7 @@ export const data = [
     meaning: "Top, Topar, Türküm, Üymek\r",
   },
   { name: "kafiye", origin: "Arapça", meaning: "Uykaş\r" },
-  { name: "kaftan", origin: "F arşça", meaning: "Çapan\r" },
+  { name: "kaftan", origin: "Farşça", meaning: "Çapan\r" },
   { name: "kâgir", origin: "Farsça", meaning: "Taş ev, Taş …\r" },
   { name: "kağnı", origin: "Yerel", meaning: "Araba\r" },
   { name: "kâh", origin: "Farsça", meaning: "Keyde\r" },
@@ -8485,7 +8485,7 @@ export const data = [
   { name: "kaldırım", origin: "Yunanca", meaning: "Döşeli yol, Yolka\r" },
   {
     name: "kaldırmak",
-    origin: "Yerel/Anlam kayması",
+    origin: "Türkçe",
     meaning: "Götermek, Götürmek, Kozgatmak\r",
   },
   {
@@ -8556,7 +8556,7 @@ export const data = [
   },
   {
     name: "kaltak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Ayağı suyuk, Suyukayak, Yenilayak, Karabet, Buzuk\r",
   },
   {
@@ -8604,7 +8604,7 @@ export const data = [
   { name: "kanca", origin: "İtalyanca", meaning: "İlgiç\r" },
   {
     name: "kandırmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(Tatmin etmek): Kandırmak, (İnandırmak): Aldatmak\r",
   },
   { name: "kangal", origin: "Yunanca", meaning: "Oram, Yumak, Bağlam\r" },
@@ -8618,16 +8618,16 @@ export const data = [
   },
   {
     name: "kanmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(Tatmin olmak): Kanmak, (İnanmak): Aldanmak\r",
   },
   { name: "kantar", origin: "Arapça", meaning: "Büyük tartı\r" },
-  { name: "kantarma", origin: "Kökeni belirsiz", meaning: "Yüğen\r" },
+  { name: "kantarma", origin: "Belirsiz", meaning: "Yüğen\r" },
   { name: "kanuni", origin: "Arapça", meaning: "Kanunlu\r" },
-  { name: "kapalı", origin: "Anlam kayması", meaning: "Yapık\r" },
+  { name: "kapalı", origin: "Türkçe", meaning: "Yapık\r" },
   {
     name: "kapamak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Yapmak, Beklemek\r",
   },
   {
@@ -8637,7 +8637,7 @@ export const data = [
   },
   {
     name: "kapatmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Yapmak, Bekletmek, Bekitmek\r",
   },
   { name: "kapı", origin: "Yerel", meaning: "Eşik\r" },
@@ -8700,7 +8700,7 @@ export const data = [
   { name: "karaca", origin: "Yerel", meaning: "Elik, Geyik\r" },
   { name: "karacı", origin: "Yerel", meaning: "Yaya asker\r" },
   { name: "karaciğer", origin: "Türkçe+Farsça", meaning: "Bağır\r" },
-  { name: "karakol", origin: "Anlam kayması", meaning: "Polis bölümü\r" },
+  { name: "karakol", origin: "Türkçe", meaning: "Polis bölümü\r" },
   {
     name: "karakter",
     origin: "Fransızca",
@@ -8708,7 +8708,7 @@ export const data = [
   },
   {
     name: "karalamak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning:
       "(karalama yazmak): Karalamak, Karalama yazmak, (kötülemek): Yamanlamak, Karalamak\r",
   },
@@ -8721,7 +8721,7 @@ export const data = [
   { name: "karanfil", origin: "Arapça", meaning: "Yıtlı\r" },
   {
     name: "karanlık",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(sıfat): Karanı, (ad): Karanılık\r",
   },
   { name: "karar", origin: "Arapça", meaning: "Seçim, Toktam\r" },
@@ -8741,7 +8741,7 @@ export const data = [
     meaning: "Seçime gelmek, Toktama gelmek\r",
   },
   { name: "karargâh", origin: "Arapça+Farsça", meaning: "Ordu\r" },
-  { name: "kararınca", origin: "Arapça+Türkçeq", meaning: "Gereğince\r" },
+  { name: "kararınca", origin: "Arapça+Türkçe", meaning: "Gereğince\r" },
   {
     name: "kararlama",
     origin: "Arapça+Türkçe",
@@ -8771,7 +8771,7 @@ export const data = [
   { name: "karasinek", origin: "Yerel", meaning: "Çıbın, Çibin\r" },
   {
     name: "karavana",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Aş kapı, Büyük kazan\r",
   },
   {
@@ -8785,7 +8785,7 @@ export const data = [
   { name: "karekök", origin: "Fransızca+Türkçe", meaning: "Dördülkök\r" },
   {
     name: "karga",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Karga (Corvus), Kuzgun (Corvus corax)\r",
   },
   {
@@ -8806,7 +8806,7 @@ export const data = [
   },
   {
     name: "karı",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Bike, Yubay, Hanım\r",
   },
   { name: "karınca", origin: "Yerel", meaning: "Kumurska\r" },
@@ -8870,7 +8870,7 @@ export const data = [
   { name: "karşılaşma", origin: "Uydurukça", meaning: "(maç) Uğraşı\r" },
   {
     name: "karşılaşmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning:
       "(Belli bir yerde denk gelmek, tesadüf etmek, rast gelmek): Uğraşmak, (Yoluna çıkmak, yolda rastlaşmak): Yolukmak\r",
   },
@@ -8894,7 +8894,7 @@ export const data = [
     origin: "Uydurukça",
     meaning: "Karşı, Karama karşı\r",
   },
-  { name: "kartal", origin: "Kökeni belirsiz", meaning: "Bürgüt\r" },
+  { name: "kartal", origin: "Belirsiz", meaning: "Bürgüt\r" },
   { name: "karton", origin: "Fransızca", meaning: "Katırma, Katırgı\r" },
   { name: "kartpostal", origin: "Fransızca", meaning: "Açık hat\r" },
   { name: "karyola", origin: "İtalyanca", meaning: "Döşek\r" },
@@ -8963,7 +8963,7 @@ export const data = [
   },
   {
     name: "kaşar",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Koyun bışlağı\r",
   },
   {
@@ -8983,7 +8983,7 @@ export const data = [
   },
   {
     name: "kat",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(binada): Kat, (tabaka): Katmer, Katlam, Katlak, (misli): Yol\r",
   },
   { name: "katalizör", origin: "Fransızca", meaning: "Tezitkiç\r" },
@@ -9039,7 +9039,7 @@ export const data = [
     meaning: "Kırgına uğratmak, Yoyguna uğratmak\r",
   },
   { name: "katmak", origin: "Yerel", meaning: "Koşmak\r" },
-  { name: "katmer", origin: "Anlam kayması", meaning: "Katlama\r" },
+  { name: "katmer", origin: "Türkçe", meaning: "Katlama\r" },
   {
     name: "katran",
     origin: "Arapça",
@@ -9073,7 +9073,7 @@ export const data = [
   },
   {
     name: "kavurmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(yok etmek) Yok etmek, Yoymak, Kırmak, Göydürmek, Yandırmak\r",
   },
   { name: "kayak", origin: "Uydurukça", meaning: "(spor) Çangı\r" },
@@ -9125,7 +9125,7 @@ export const data = [
   },
   {
     name: "kayırmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Kollamak, Yaklamak, Yaklayıcılık etmek\r",
   },
   { name: "kayısı", origin: "Farsça", meaning: "Erik\r" },
@@ -9152,7 +9152,7 @@ export const data = [
   { name: "kaypak", origin: "Yerel", meaning: "Taygak, İşançsız\r" },
   {
     name: "kaytarmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "İşten kaçmak, Kaçaklamak, Baş tartmak\r",
   },
   {
@@ -9162,7 +9162,7 @@ export const data = [
   },
   {
     name: "kazanmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(yenmek) Yenmek, Ütmek, Utmak, Üstün çıkmak\r",
   },
   {
@@ -9173,7 +9173,7 @@ export const data = [
   { name: "kazıklamak", origin: "Argo", meaning: "Aldamak\r" },
   { name: "kazımak", origin: "Yerel", meaning: "Kırmak\r" },
   { name: "kazma", origin: "Yerel", meaning: "(alet) Kayla\r" },
-  { name: "kebze", origin: "Kökeni belirsiz", meaning: "Yağrın\r" },
+  { name: "kebze", origin: "Belirsiz", meaning: "Yağrın\r" },
   { name: "keçe", origin: "Yerel", meaning: "Kiyiz\r" },
   { name: "keder", origin: "Arapça", meaning: "Bun, Kaygı\r" },
   {
@@ -9220,7 +9220,7 @@ export const data = [
     origin: "Farsça",
     meaning: "(kuşak) Belbağı, Kurşak\r",
   },
-  { name: "kemik", origin: "Anlam kayması", meaning: "Sünük, Süyek\r" },
+  { name: "kemik", origin: "Türkçe", meaning: "Sünük, Süyek\r" },
   { name: "kemiyet", origin: "Arapça", meaning: "San\r" },
   { name: "kenar", origin: "Farsça", meaning: "Kırak, Çet, Yaka \r" },
   { name: "kendi", origin: "Yerel", meaning: "Öz, Özü\r" },
@@ -9318,7 +9318,7 @@ export const data = [
   },
   {
     name: "kesmek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(durdurmak) Toktatmak\r",
   },
   { name: "kestane", origin: "Yunanca", meaning: "Talçın\r" },
@@ -9334,7 +9334,7 @@ export const data = [
   },
   {
     name: "kestirmek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning:
       "(Tahmin): Bolcamak, Çamalamak, Oylamak, (Uyuklamak): Imızganmak, \r",
   },
@@ -9361,10 +9361,10 @@ export const data = [
   },
   { name: "kez", origin: "Yerel", meaning: "Yol, Kez\r" },
   { name: "kezzap", origin: "Arapça", meaning: "Azot gıçkılı\r" },
-  { name: "kıç", origin: "Anlam kayması", meaning: "Göt, Arka\r" },
+  { name: "kıç", origin: "Türkçe", meaning: "Göt, Arka\r" },
   {
     name: "kıkırdak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Kemirdek, Kemircek\r",
   },
   {
@@ -9382,10 +9382,10 @@ export const data = [
     origin: "Arapça",
     meaning: "Kap, Kaplama, Dış, Dışlık, Yapkıç\r",
   },
-  { name: "kılık", origin: "Anlam kayması", meaning: "Dış görünüş\r" },
+  { name: "kılık", origin: "Türkçe", meaning: "Dış görünüş\r" },
   {
     name: "kınamak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Yazgırmak, Uyatlamak\r",
   },
   {
@@ -9394,41 +9394,41 @@ export const data = [
     meaning: "Kımıldamak, Kozgalmak\r",
   },
   { name: "kır", origin: "Yerel", meaning: "(renk) Çal\\n\\n" },
-  { name: "kırbaç", origin: "Kökeni belirsiz", meaning: "Kamçı\r" },
+  { name: "kırbaç", origin: "Belirsiz", meaning: "Kamçı\r" },
   {
     name: "kırgın",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "İncik, Darıngan, Öfkeli\r",
   },
   {
     name: "kırık",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(el, kol vb…) Sınık\\n\\n",
   },
-  { name: "kırıkçı", origin: "Anlam kayması", meaning: "Sınıkçı\r" },
+  { name: "kırıkçı", origin: "Türkçe", meaning: "Sınıkçı\r" },
   {
     name: "kırılmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(parçalanmak) Sınmak\\n\\n",
   },
   {
     name: "kırıntı",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Ufak, Kıyıntı\r",
   },
   { name: "kırıp geçirmek", origin: "Yerel", meaning: "Yemirmek\r" },
   { name: "kırışmak", origin: "Yerel", meaning: "Buruşmak\r" },
   {
     name: "kırıştırmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Oynaşmak, Kılıklanmak, Erseklenmek\r",
   },
   { name: "kırıtmak", origin: "Yerel", meaning: "Kılıklanmak\r" },
   { name: "kırlangıç", origin: "Yerel", meaning: "Karlığaç\r" },
-  { name: "kırma", origin: "Anlam kayması", meaning: "(melez) Koşmak\r" },
+  { name: "kırma", origin: "Türkçe", meaning: "(melez) Koşmak\r" },
   {
     name: "kırmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(parçalamak) Sındırmak\\n\\n",
   },
   { name: "kırmızı", origin: "Arapça", meaning: "Kızıl\r" },
@@ -9476,12 +9476,12 @@ export const data = [
   { name: "kısıtlı", origin: "Uydurukça", meaning: "Çekli, Çeklenen\r" },
   {
     name: "kıskanç",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Kızgancak, Gönüleyici\r",
   },
   {
     name: "kıskanmak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Kızganmak, Gönülemek\r",
   },
   {
@@ -9496,7 +9496,7 @@ export const data = [
   },
   {
     name: "kısmak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(Sıkmak):Kısmak, (Kısaltmak): Kısaltmak, Azaltmak\r",
   },
   {
@@ -9505,7 +9505,7 @@ export const data = [
     meaning: "Ülüşle, Yarım yamalak, Bölekleyip\r",
   },
   { name: "kısmet", origin: "Arapça", meaning: "Ülüş, Yazmış\r" },
-  { name: "kısrak", origin: "Anlam kayması", meaning: "Biye\r" },
+  { name: "kısrak", origin: "Türkçe", meaning: "Biye\r" },
   { name: "kıstas", origin: "Arapça", meaning: "Ölçem\r" },
   { name: "kışkırtma", origin: "Uydurukça", meaning: "Azdırma\r" },
   { name: "kışkırtmacı", origin: "Uydurukça", meaning: "Azdırıcı\r" },
@@ -9516,7 +9516,7 @@ export const data = [
   },
   {
     name: "kışla",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Asker yatakhanesi\r",
   },
   { name: "kıt", origin: "Arapça", meaning: "Az, Kıs, Yetişmeyen\r" },
@@ -9562,11 +9562,11 @@ export const data = [
     meaning: "(doğramak) Doğramak, Ufatmak, Kıymak\\n\\n",
   },
   { name: "kıymet", origin: "Arapça", meaning: "Değer\r" },
-  { name: "kızak", origin: "Kökeni belirsiz", meaning: "Çana\r" },
+  { name: "kızak", origin: "Belirsiz", meaning: "Çana\r" },
   { name: "kızılcık", origin: "Yerel", meaning: "Kızıl, Çiye\r" },
   {
     name: "kızmak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(öfkelenmek) Acılanmak, Kızmak\r",
   },
   { name: "kibar", origin: "Arapça", meaning: "Epli, Ağır basırıklı\r" },
@@ -9690,7 +9690,7 @@ export const data = [
   },
   {
     name: "kol",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(tutmak için) Sap, Tutak, Tutka, Tutkuç\\n\\n",
   },
   {
@@ -9703,7 +9703,7 @@ export const data = [
     origin: "Yerel",
     meaning: "Ayıl, Tasma, Tartma, Döşbağ, Onurcak\r",
   },
-  { name: "kolay", origin: "Anlam kayması", meaning: "Onay\r" },
+  { name: "kolay", origin: "Türkçe", meaning: "Onay\r" },
   { name: "koli", origin: "Fransızca", meaning: "Boğma, Boğça\r" },
   { name: "kolluk", origin: "Yerel", meaning: "Karavıllık\r" },
   {
@@ -9714,7 +9714,7 @@ export const data = [
   { name: "kolonya", origin: "Fransızca", meaning: "İssu, Yıparsu\r" },
   {
     name: "koltuk",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(oturmak için) Orunduk\r",
   },
   { name: "kolye", origin: "Fransızca", meaning: "Boyuncak, Boncuk\r" },
@@ -9760,7 +9760,7 @@ export const data = [
   { name: "komünikasyon", origin: "Fransızca", meaning: "Bağlanış\r" },
   {
     name: "konak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(Konaklama yeri): Konak, (Gösterişli ev): Ayrım ev\r",
   },
   {
@@ -9829,7 +9829,7 @@ export const data = [
   { name: "konum", origin: "Uydurukça", meaning: "Yağday, Duruş\r" },
   {
     name: "konuşkan",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Söylek, Sözcen, Söylemcen\r",
   },
   {
@@ -9839,7 +9839,7 @@ export const data = [
   },
   {
     name: "konuşmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning:
       "(Bir dilde): Söyleşmek, (Biriyle sohbette): Söyleşmek, (Kendi kendine): Söylenmek, (Bir dinleyici kitlesine karşı): Söze çıkmak, Bildirilemek\r",
   },
@@ -9854,8 +9854,8 @@ export const data = [
     origin: "Fransızca+Türkçe",
     meaning: "Uylaştırmak, Kurulumdaştırmak, Bağlanıştırmak, Bir baş etmek\r",
   },
-  { name: "koparmak", origin: "Anlam kayması", meaning: "Üzmek\r" },
-  { name: "kopmak", origin: "Anlam kayması", meaning: "Üzülmek\r" },
+  { name: "koparmak", origin: "Türkçe", meaning: "Üzmek\r" },
+  { name: "kopmak", origin: "Türkçe", meaning: "Üzülmek\r" },
   { name: "kopya", origin: "Fransızca", meaning: "Göçürme\r" },
   {
     name: "kopya çekmek",
@@ -9871,21 +9871,21 @@ export const data = [
   { name: "koro", origin: "İtalyanca", meaning: "Yırcılar topu\r" },
   { name: "korsan", origin: "İtalyanca", meaning: "Deniz karakçısı\r" },
   { name: "korse", origin: "Fransızca", meaning: "Yassı belbağı\r" },
-  { name: "koru", origin: "Anlam kayması", meaning: "Tokay\r" },
+  { name: "koru", origin: "Türkçe", meaning: "Tokay\r" },
   {
     name: "korucu",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Ormancı, Gözetçi\r",
   },
   { name: "koruk", origin: "Farsça", meaning: "Gök üzüm\r" },
   {
     name: "korumak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Korumak, Saklamak, Asramak\r",
   },
   {
     name: "koşmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Yüğürmek, Yüpürmek, Çapmak\r",
   },
   {
@@ -9945,7 +9945,7 @@ export const data = [
   },
   {
     name: "köpek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(Tür adı): İt, (Erkek): Köpek, (Dişi): Kancık, (Yavru): Küçük\r",
   },
   { name: "kör", origin: "Farsça", meaning: "Sokur, Gözsüz\r" },
@@ -9964,7 +9964,7 @@ export const data = [
   },
   {
     name: "körüklemek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning:
       "(Körük kullanmak): Körüklemek, (Kışkırtmak): Kızdırmak, Tutuşturmak, Azdırmak\r",
   },
@@ -9995,7 +9995,7 @@ export const data = [
   },
   {
     name: "kötürüm",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Yatan, Yatıp orun tutan\r",
   },
   { name: "köy", origin: "Farsça", meaning: "Ağıl, Oba, Kışlak\r" },
@@ -10065,7 +10065,7 @@ export const data = [
   { name: "kullanışlı", origin: "Yerel", meaning: "Kolay, Kollanırlı\r" },
   {
     name: "kullanmak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(Kol ve el marifetiyle):Kollanmak, (Faydalanmak): İşletmek\r",
   },
   {
@@ -10123,9 +10123,9 @@ export const data = [
   },
   { name: "kurgulamak", origin: "Uydurukça", meaning: "Kuraştırmak\r" },
   { name: "kurnaz", origin: "Yerel", meaning: "Kuv\r" },
-  { name: "kurşun", origin: "Anlam kayması", meaning: "(mermi) Ok\r" },
+  { name: "kurşun", origin: "Türkçe", meaning: "(mermi) Ok\r" },
   { name: "kurşuni", origin: "Türkçe+Arapça", meaning: "Kurşuntüslü\r" },
-  { name: "kurşunlamak", origin: "Anlam kayması", meaning: "Ok atmak\r" },
+  { name: "kurşunlamak", origin: "Türkçe", meaning: "Ok atmak\r" },
   {
     name: "kurt",
     origin: "Soğdca",
@@ -10194,10 +10194,10 @@ export const data = [
     meaning: "Demir Kazık\r",
   },
   { name: "kuvvet", origin: "Arapça", meaning: "Güç\r" },
-  { name: "kuyruk", origin: "Anlam kayması", meaning: "(sıra) Kezek\r" },
+  { name: "kuyruk", origin: "Türkçe", meaning: "(sıra) Kezek\r" },
   {
     name: "kuytu",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Avlak, Onca, Dulda, Çet\r",
   },
   { name: "kuzey", origin: "Uydurukça", meaning: "Demirkazık\r" },
@@ -10217,10 +10217,10 @@ export const data = [
     origin: "Uydurukça",
     meaning: "Tubansıtmak, Kemsitmek, Bensimemek, Küçültmek, Küçük görmek\r",
   },
-  { name: "küf", origin: "Kökeni belirsiz", meaning: "Önez, Gök\r" },
+  { name: "küf", origin: "Belirsiz", meaning: "Önez, Gök\r" },
   {
     name: "küflenmek",
-    origin: "Kökeni belirsiz+Türkçe",
+    origin: "Belirsiz+Türkçe",
     meaning: "Önezlenmek, Göğermek, Gök basmak\r",
   },
   {
@@ -10289,7 +10289,7 @@ export const data = [
   { name: "kürek kemiği", origin: "Yerel", meaning: "Yağrın\r" },
   {
     name: "kürk",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Avderisi, Deri\r",
   },
   { name: "kürtaj", origin: "Fransızca", meaning: "Bala düşürtme\r" },
@@ -10321,7 +10321,7 @@ export const data = [
   },
   {
     name: "küt",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "(kesmeyen) Ötmez\r",
   },
   {
@@ -10498,7 +10498,7 @@ export const data = [
   { name: "liman", origin: "Yunanca", meaning: "Eylek\r" },
   {
     name: "lime lime",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Yırtık pırtık, Dilke dilke\r",
   },
   { name: "limit", origin: "Fransızca", meaning: "Çek, Çekli ölçem\r" },
@@ -10529,7 +10529,7 @@ export const data = [
   { name: "loca", origin: "İtalyanca", meaning: "Arnayı orun\r" },
   { name: "lohusa", origin: "Yunanca", meaning: "Yeni doğumlu\r" },
   { name: "lojman", origin: "Fransızca", meaning: "Başarma evi\r" },
-  { name: "lokanta", origin: "İtanlyanca", meaning: "Aşhane\r" },
+  { name: "lokanta", origin: "İtalyanca", meaning: "Aşhane\r" },
   {
     name: "lokavt",
     origin: "İngilizce",
@@ -10544,7 +10544,7 @@ export const data = [
   { name: "losyon", origin: "Fransızca", meaning: "İssu\r" },
   {
     name: "loş",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Yarı karanı, Ala karanı, Alaca karanı, Ala gölge, Kara gölge\r",
   },
   { name: "lügat", origin: "Arapça", meaning: "Sözlük\r" },
@@ -10823,7 +10823,7 @@ export const data = [
   { name: "malum", origin: "Arapça", meaning: "Belgili, Anık\r" },
   { name: "malumat", origin: "Arapça", meaning: "Bilgi\r" },
   { name: "malzeme", origin: "Arapça", meaning: "Yarak, Kural\r" },
-  { name: "mama", origin: "Kökeni belirsiz", meaning: "Çağa yemiti\r" },
+  { name: "mama", origin: "Belirsiz", meaning: "Çağa yemiti\r" },
   {
     name: "mamafih",
     origin: "Arapça",
@@ -10838,7 +10838,7 @@ export const data = [
   },
   {
     name: "manav",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning:
       "Göğerti satıcısı, Yemiş satıcısı, Yeşilce satıcısı, Yeşilce-yemiş satıcısı, Gök satıcısı, Gökçü, Göktatçı\r",
   },
@@ -11042,7 +11042,7 @@ export const data = [
     meaning: "Onmazlık, Yamanlık, İğrençlilik\r",
   },
   { name: "melankoli", origin: "Fransızca", meaning: "Bunluluk\r" },
-  { name: "melez", origin: "Kökeni belirsiz", meaning: "Koşmak\r" },
+  { name: "melez", origin: "Belirsiz", meaning: "Koşmak\r" },
   { name: "melhem", origin: "Arapça", meaning: "May\r" },
   {
     name: "melhem olmak",
@@ -11052,7 +11052,7 @@ export const data = [
   { name: "melodi", origin: "Fransızca", meaning: "Küy\r" },
   {
     name: "meltem",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "İpek yel, Yenil yel\r",
   },
   {
@@ -11063,12 +11063,12 @@ export const data = [
   { name: "memba", origin: "Arapça", meaning: "Bulak, Kaynar, Göz\r" },
   {
     name: "meme",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "(İnsan): Emcek, (Hayvan):Yelin, (Vücutta):Şişik, Toparlak\r",
   },
   {
     name: "memeli",
-    origin: "Kökeni belirsiz+Türkçe",
+    origin: "Belirsiz+Türkçe",
     meaning: "Sütemdirici, Sütemzirici\r",
   },
   {
@@ -11391,7 +11391,7 @@ export const data = [
   { name: "mıntıka", origin: "Arapça", meaning: "Bölüm, Ülüş\r" },
   {
     name: "mısır",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Kargıdalı, Yüğeri\r",
   },
   { name: "mısra", origin: "Arapça", meaning: "Koşuk yolu\r" },
@@ -11463,7 +11463,7 @@ export const data = [
   },
   {
     name: "minder",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Körpece, Döşekçe\r",
   },
   {
@@ -11892,13 +11892,13 @@ export const data = [
   { name: "murdar", origin: "Farsça", meaning: "Kir, Değmeğe değmez.\r" },
   { name: "musahhih", origin: "Arapça", meaning: "Düzetici\r" },
   { name: "muska", origin: "Arapça", meaning: "Biti\r" },
-  { name: "musluk", origin: "Kökeni belirsiz", meaning: "Çümek\r" },
+  { name: "musluk", origin: "Belirsiz", meaning: "Çümek\r" },
   {
     name: "mustarip",
     origin: "Arapça",
     meaning: "Ağırlık gören, Kıncılık çeken\r",
   },
-  { name: "mut", origin: "Kökeni belirsiz", meaning: "Kıvanç\r" },
+  { name: "mut", origin: "Belirsiz", meaning: "Kıvanç\r" },
   {
     name: "mutaassıp",
     origin: "Arapça",
@@ -11937,17 +11937,17 @@ export const data = [
   { name: "mutlakiyet", origin: "Arapça", meaning: "Çeksiz beylik\r" },
   {
     name: "mutlu",
-    origin: "Kökeni belirsiz+Türkçe",
+    origin: "Belirsiz+Türkçe",
     meaning: "Kıvançlı, Kıvanık\r",
   },
   {
     name: "mutluluk",
-    origin: "Kökeni belirsiz+Türkçe",
+    origin: "Belirsiz+Türkçe",
     meaning: "Kıvanç, Kıvançlılık, Kıvanıklık\r",
   },
   {
     name: "mutlu olmak",
-    origin: "Kökeni belirsiz+Türkçe",
+    origin: "Belirsiz+Türkçe",
     meaning: "Kıvanmak\r",
   },
   { name: "muttali", origin: "Arapça", meaning: "Tanış, Bilgili\r" },
@@ -12623,7 +12623,7 @@ export const data = [
   },
   {
     name: "neden",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Niçin, Niye, Neden\\n\\n",
   },
   {
@@ -12755,7 +12755,7 @@ export const data = [
   { name: "nihayet", origin: "Arapça", meaning: "Sonunda, Ayağında\r" },
   { name: "nikâh", origin: "Arapça", meaning: "Evlenme\r" },
   { name: "nimbus", origin: "Latince", meaning: "Kara bulut\r" },
-  { name: "ninni", origin: "Kökeni belirsiz", meaning: "Beşik yırı\r" },
+  { name: "ninni", origin: "Belirsiz", meaning: "Beşik yırı\r" },
   { name: "nisan", origin: "Arapça", meaning: "Dördüncü ay\r" },
   { name: "nisap", origin: "Arapça", meaning: "Yeterlikli sayı\r" },
   { name: "nispet", origin: "Arapça", meaning: "Denklik\r" },
@@ -12914,7 +12914,7 @@ export const data = [
   },
   {
     name: "okşamak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Sılamak, Sıypamak\r",
   },
   { name: "okumuş", origin: "Yerel", meaning: "Okumuşlu\r" },
@@ -12942,12 +12942,12 @@ export const data = [
   },
   {
     name: "olgun",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(sebze, meyve) Pişkin\\n\\n",
   },
   {
     name: "olmamış",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(sebze, meyve) Çiğ, Gök, Pişmemiş\r",
   },
   { name: "olta", origin: "İtalyanca", meaning: "Karmak\r" },
@@ -13003,8 +13003,8 @@ export const data = [
     meaning: "Denklik, Ara katış\r",
   },
   { name: "oraya", origin: "Yerel", meaning: "O yere\r" },
-  { name: "ordu", origin: "Anlam kayması", meaning: "Koşun\r" },
-  { name: "ordugâh", origin: "Anlam kayması+Farsça", meaning: "Ordu\r" },
+  { name: "ordu", origin: "Türkçe", meaning: "Koşun\r" },
+  { name: "ordugâh", origin: "Türkçe+Farsça", meaning: "Ordu\r" },
   { name: "organ", origin: "Fransızca", meaning: "Müce\r" },
   {
     name: "organizasyon",
@@ -13078,17 +13078,17 @@ export const data = [
   },
   {
     name: "oturmak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning:
       "(Vücudunu yerleştirmek): Oturmak, (İkamet etmek): Durmak, Yaşamak\r",
   },
   {
     name: "oturmuş",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Berk ornalan, Damar salan, Duraklı\r",
   },
   { name: "oturum", origin: "Uydurukça", meaning: "Oturuş, Yığılış\r" },
-  { name: "ova", origin: "Anlam kayması", meaning: "Yazı, Düzlük\r" },
+  { name: "ova", origin: "Türkçe", meaning: "Yazı, Düzlük\r" },
   { name: "oy", origin: "Uydurukça", meaning: "Davış, Ses\r" },
   { name: "oya", origin: "Yunanca", meaning: "Tor, Çilter, Keşte\r" },
   {
@@ -13125,12 +13125,12 @@ export const data = [
   { name: "oymak", origin: "Yerel", meaning: "(aşiret) Uruk, Tire\r" },
   {
     name: "oynamak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(kımıldamak) Kımıldamak\r",
   },
   {
     name: "oyun",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(dolan, hile) Aldama, Kuvluk\r",
   },
   { name: "ozan", origin: "Farsça", meaning: "Çeçen\r" },
@@ -13149,7 +13149,7 @@ export const data = [
   { name: "ödem", origin: "Fransızca", meaning: "Gerik\r" },
   {
     name: "ödemek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(Maddi karşılığını vermek): Tölemek, (ifa etmek): Ödemek\r",
   },
   {
@@ -13169,7 +13169,7 @@ export const data = [
   },
   {
     name: "ödlek",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Korkak, Yüreksiz\r",
   },
   { name: "ödül", origin: "Uydurukça", meaning: "Sıylık, Tartık\r" },
@@ -13191,12 +13191,12 @@ export const data = [
   },
   {
     name: "öfke",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Acı, Acılanma, Acısı tutma, Öfke\r",
   },
   {
     name: "öfkelenmek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Acılanmak, Acısı tutmak, Öfkelenmek\r",
   },
   { name: "öğe", origin: "Uydurukça", meaning: "Bölek, Kesek, Sınar\r" },
@@ -13211,7 +13211,7 @@ export const data = [
   },
   {
     name: "öğrenmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(Alışma): Öğrenmek, (Tahsil): Okumak\r",
   },
   {
@@ -13223,7 +13223,7 @@ export const data = [
   { name: "öğün", origin: "Uydurukça", meaning: "Öyün\r" },
   {
     name: "öğütmek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(Un): Tartmak, (Genel): Öğütmek\r",
   },
   { name: "öksürmek", origin: "Yerel", meaning: "Yötelmek\r" },
@@ -13300,12 +13300,12 @@ export const data = [
     meaning: "Yapmak, Bürümek, Örtmek\r",
   },
   { name: "örtü", origin: "Yerel", meaning: "Yapkıç, Örtü\r" },
-  { name: "öte", origin: "Anlam kayması", meaning: "Karşı yak, O yan\r" },
+  { name: "öte", origin: "Türkçe", meaning: "Karşı yak, O yan\r" },
   { name: "öteberi", origin: "Yerel", meaning: "Ufak tefek, Şu bu\r" },
   { name: "öteki", origin: "Yerel", meaning: "Başkası, O biri\r" },
   {
     name: "ötmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Sayramak, Cıvıldamak\r",
   },
   {
@@ -13547,7 +13547,7 @@ export const data = [
     origin: "Yerel",
     meaning: "Tot basmak, Totukmak, Totuklanmak\r",
   },
-  { name: "paspas", origin: "Kökeni belirsiz", meaning: "Ayaksilen\r" },
+  { name: "paspas", origin: "Belirsiz", meaning: "Ayaksilen\r" },
   {
     name: "pataklamak",
     origin: "Yerel",
@@ -13556,7 +13556,7 @@ export const data = [
   { name: "patates", origin: "Yunanca", meaning: "Yerelması\r" },
   {
     name: "patavatsız",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Gelişsiz, Yönsüz, Orunsuz\r",
   },
   { name: "paten", origin: "Fransızca", meaning: "Demir ayak\r" },
@@ -13634,13 +13634,13 @@ export const data = [
   },
   {
     name: "pek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(sert) Katı, Berk\\n\\n",
   },
   { name: "pek âlâ", origin: "Türkçe+Arapça", meaning: "Öte yakşı\r" },
   {
     name: "peki",
-    origin: "Anlam daralması",
+    origin: "Türkçe",
     meaning: "Yakşı, Yarar, Olur\r",
   },
   {
@@ -13769,7 +13769,7 @@ export const data = [
   { name: "pıhtılaşmak", origin: "Farsça", meaning: "Uyumak, Uyuşmak\r" },
   {
     name: "pılı pırtı",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Eski püskü\r",
   },
   { name: "pınar", origin: "Yerel", meaning: "Bulak, Kaynar\r" },
@@ -13812,7 +13812,7 @@ export const data = [
   { name: "pingpong", origin: "İngilizce", meaning: "Masa tenisi\r" },
   {
     name: "pinti",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Saran, Sıkmır, Sıkna, Eli sıkı\r",
   },
   { name: "pir", origin: "Farsça", meaning: "Aksakal, Abuşka, Çal\r" },
@@ -13857,7 +13857,7 @@ export const data = [
   },
   {
     name: "pohpohlamak",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Yaltanmak, Yalakalanmak, Çekten aşa maktamak\r",
   },
   {
@@ -13975,7 +13975,7 @@ export const data = [
     origin: "Farsça",
     meaning: "Kemcilik, Yetişsizlik, Yetişmezlik, Yetmezcilik\r",
   },
-  { name: "püskül", origin: "Kökeni belirsiz", meaning: "Saçak\r" },
+  { name: "püskül", origin: "Belirsiz", meaning: "Saçak\r" },
   { name: "püskürmek", origin: "Yerel", meaning: "Pürkümek, Sepmek\r" },
   { name: "rabıta", origin: "Arapça", meaning: "Bağlanış\r" },
   { name: "radyo", origin: "Fransızca", meaning: "Ünalgı\r" },
@@ -14300,12 +14300,12 @@ export const data = [
   },
   {
     name: "saçma",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Yok var söz, Boş söz, Sandırak\r",
   },
   {
     name: "saçmalamak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Yok var söylemek, Boş söylemek, Sandıramak\r",
   },
   {
@@ -14375,7 +14375,7 @@ export const data = [
   { name: "sağlam", origin: "Yerel", meaning: "Sağlam, Sağdın, Berk\r" },
   {
     name: "sağlamak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning:
       "(Temin etmek): Kurallamak, Anıklamak, Yetiştirmek, (Elde etmek): El yetirmek, Yetmek, İye olmak (Doğrulamak): Aygaklamak (Araçla önüne geçmek): Sağ yana çıkmak, Sağlamak\r",
   },
@@ -14417,7 +14417,7 @@ export const data = [
   },
   { name: "saik", origin: "Arapça", meaning: "Sıltak\r" },
   { name: "sair", origin: "Arapça", meaning: "Özge, Başka\r" },
-  { name: "saka", origin: "Kökeni belirsiz", meaning: "Güzturgay\r" },
+  { name: "saka", origin: "Belirsiz", meaning: "Güzturgay\r" },
   { name: "sakar", origin: "Yerel", meaning: "Epsiz, Çamasız, Ukusuz\r" },
   { name: "sakatat", origin: "Arapça", meaning: "İçek karın\r" },
   {
@@ -14439,20 +14439,20 @@ export const data = [
   },
   {
     name: "saklamak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Yaşırmak, Gizlemek\r",
   },
   { name: "saklambaç", origin: "Yerel", meaning: "Yaşınmak\r" },
   {
     name: "saklanmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(Kendi):Yaşırınmak, Yaşınmak, (Başkasınca): Yaşırılmak\r",
   },
-  { name: "saklı", origin: "Anlam kayması", meaning: "Yaşın, Yaşırın\r" },
+  { name: "saklı", origin: "Türkçe", meaning: "Yaşın, Yaşırın\r" },
   { name: "salahiyet", origin: "Arapça", meaning: "Vekillik\r" },
   {
     name: "salak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Anka, Tentek, Yenilbaş\r",
   },
   { name: "salam", origin: "İtalyanca", meaning: "Doldurma\r" },
@@ -14625,7 +14625,7 @@ export const data = [
   { name: "sarık", origin: "Yerel", meaning: "Çalma\r" },
   {
     name: "sarılmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(kucaklamak) Kucaklamak, Boynuna atılmak\\n\\n",
   },
   {
@@ -14675,7 +14675,7 @@ export const data = [
     origin: "Yerel",
     meaning: "Depretmek, Silkmek, Silkitmek\r",
   },
-  { name: "sataşmak", origin: "Anlam kayması", meaning: "Değişmek\r" },
+  { name: "sataşmak", origin: "Türkçe", meaning: "Değişmek\r" },
   { name: "sathi", origin: "Arapça", meaning: "Üstten, Yüzden, Say\r" },
   { name: "satıh", origin: "Arapça", meaning: "Üst, Yüz\r" },
   { name: "satır", origin: "Arapça", meaning: "Çizik, Yol\\n\\n" },
@@ -14744,7 +14744,7 @@ export const data = [
   { name: "sayın", origin: "Uydurukça", meaning: "Sıylı, Ardaklı\r" },
   {
     name: "saymak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(hürmet etmek) Sıylamak, Ardaklamak\r",
   },
   { name: "sayman", origin: "Uydurukça", meaning: "Sayakçı\r" },
@@ -14776,7 +14776,7 @@ export const data = [
   },
   {
     name: "seçmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning:
       "(Benzeleri arasından alma): Dallamak, \\n (Hakkında karar verme, lehine oy verme): Saylamak\r",
   },
@@ -14835,13 +14835,13 @@ export const data = [
   { name: "sefir", origin: "Arapça", meaning: "Elçi\r" },
   {
     name: "seğirmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning:
       "Tartmak, Tartılmak, Gözü tartmak, Kaş tartmak, Titremek, Damar çekmek\r",
   },
   {
     name: "seğirtmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Yönelmek, Intılmak, Atılmak, Çapsan gitmek\r",
   },
   { name: "seher", origin: "Arapça", meaning: "Tan\r" },
@@ -14887,7 +14887,7 @@ export const data = [
   { name: "senatör", origin: "Fransızca", meaning: "Aksakal\r" },
   {
     name: "sendelemek",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Irganmak, Deprenmek, Çaykalmak\r",
   },
   { name: "sene", origin: "Arapça", meaning: "Yıl\r" },
@@ -14948,7 +14948,7 @@ export const data = [
   { name: "sermek", origin: "Yerel", meaning: "Yaymak, Sermek\r" },
   {
     name: "serpilmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning:
       "(gelişmek) Boya yetmek, Boylanmak, Ösmek, Ulalmak, Yetilmek, Yetişmek \\n\\n",
   },
@@ -14991,7 +14991,7 @@ export const data = [
   { name: "sevecen", origin: "Yerel", meaning: "Sevimli, Yakımlı\r" },
   {
     name: "sevişmek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning:
       "(Biri birini sevmek): Sevişmek, (Cinsellik yaşamak): Sikişmek, Koşulmak\r",
   },
@@ -15070,20 +15070,20 @@ export const data = [
   { name: "sıhhat", origin: "Arapça", meaning: "Sağlık, Tensağlık\r" },
   { name: "sıhhi", origin: "Arapça", meaning: "Sağlıkla bağlı\r" },
   { name: "sık", origin: "Yerel", meaning: "Yığı, Yış\r" },
-  { name: "sıkı", origin: "Anlam kayması", meaning: "Tıkız, Katı\r" },
+  { name: "sıkı", origin: "Türkçe", meaning: "Tıkız, Katı\r" },
   {
     name: "sıkıcı",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "İçpusarıcı, Yadıtıcı, Eriktirici, Yürek kısıcı, Bezdirici\r",
   },
   {
     name: "sıkılgan",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Utancak, Tartıncak, Çekincek\r",
   },
   {
     name: "sıkılmak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning:
       "(Utanmak): Utanmak, Tartınmak, Çekinmek (Bunalmak): İçi pusmak, Yadımak, Erikmek, Yüreği kısılmak, Bezmek\r",
   },
@@ -15164,7 +15164,7 @@ export const data = [
   { name: "sırılsıklam", origin: "Yerel", meaning: "Öp öl, sup sulak\r" },
   {
     name: "sırt",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(Canlı): Arka, (Cansız): Sırt\r",
   },
   {
@@ -15178,7 +15178,7 @@ export const data = [
     meaning: "Arkası üstü, Çalkasına\r",
   },
   { name: "sıska", origin: "Arapça", meaning: "Arık\r" },
-  { name: "sıtma", origin: "Anlam kayması", meaning: "Bezgek\r" },
+  { name: "sıtma", origin: "Türkçe", meaning: "Bezgek\r" },
   {
     name: "sıvalamak",
     origin: "Yerel",
@@ -15186,7 +15186,7 @@ export const data = [
   },
   {
     name: "sıvamak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(yen ve paça) Dürmek, Çirmemek\r",
   },
   { name: "sıvazlamak", origin: "Yerel", meaning: "Sıypamak, Sılamak\r" },
@@ -15287,30 +15287,30 @@ export const data = [
   { name: "sincap", origin: "Farsça", meaning: "Tiyin\r" },
   {
     name: "sindirmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(Korkutmak) Basmak, Bastırmak\r",
   },
   { name: "sine", origin: "Farsça", meaning: "Göğüs, Kökrek, Döş\r" },
   { name: "sinek", origin: "Yerel", meaning: "Çıbın, Cibin\r" },
   {
     name: "sinir",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning:
       "(Anatomi): Sinir, (Asabiyet): Kızma, Kızmalılık, Kanı kızma, Acılanma\r",
   },
   {
     name: "sinirlenmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Kızmak, Acılanmak\r",
   },
   {
     name: "sinirli",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Kızmalı, Kızgın, Kanı kızgın, Acılı \r",
   },
   {
     name: "sinmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(Korkudan) Basınmak, Gönlü düşmek, Pusmak\r",
   },
   {
@@ -15340,7 +15340,7 @@ export const data = [
     origin: "Fransızca",
     meaning: "Buyruk, Görsetme, Yol yoruk\r",
   },
-  { name: "sis", origin: "Kökeni belirsiz", meaning: "Duman\r" },
+  { name: "sis", origin: "Belirsiz", meaning: "Duman\r" },
   { name: "sistem", origin: "Fransızca", meaning: "Dizim\r" },
   { name: "sitem", origin: "Farsça", meaning: "Yazgırma, Uyatlama\r" },
   {
@@ -15356,7 +15356,7 @@ export const data = [
   { name: "sivri", origin: "Yerel", meaning: "Uçlu, Yiti uçlu, Sivri\r" },
   {
     name: "sivrilmek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning:
       "(Uçlanmak): Uçlanmak, Sivrilmek, (Öne çıkmak, Yükselmek): Ozup gitmek, Ozmak, Ala ötmek, Ösmek, Üstün çıkmak\r",
   },
@@ -15396,7 +15396,7 @@ export const data = [
   },
   {
     name: "sokmak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Sokmak, Tıkmak, Girdirmek\r",
   },
   { name: "solak", origin: "Yerel", meaning: "Solakay\r" },
@@ -15423,7 +15423,7 @@ export const data = [
     meaning: "Burutmak, Kapağını salmak\r",
   },
   { name: "somut", origin: "Uydurukça", meaning: "Anık, Belgili\r" },
-  { name: "son", origin: "Anlam genişlemesi", meaning: "Ayak, Son\r" },
+  { name: "son", origin: "Türkçe", meaning: "Ayak, Son\r" },
   { name: "sonbahar", origin: "Türkçe+Farsça", meaning: "Güz\r" },
   { name: "sonra", origin: "Yerel", meaning: "Geyin, Sonra\r" },
   { name: "sonradan", origin: "Yerel", meaning: "Geyin\r" },
@@ -15470,7 +15470,7 @@ export const data = [
     origin: "Fransızca",
     meaning: "Aksüyek, Aksüyekler, Yukarı katlak\r",
   },
-  { name: "soy", origin: "Anlam kayması", meaning: "Tek, Uruk\r" },
+  { name: "soy", origin: "Türkçe", meaning: "Tek, Uruk\r" },
   {
     name: "soya çekim",
     origin: "Uydurukça",
@@ -15479,7 +15479,7 @@ export const data = [
   },
   { name: "soyadı", origin: "Uydurukça", meaning: "Ata adı\r" },
   { name: "soydaş", origin: "Yerel", meaning: "Uruktaş\r" },
-  { name: "soygun", origin: "Anlam kayması", meaning: "Talan, Tonak\r" },
+  { name: "soygun", origin: "Türkçe", meaning: "Talan, Tonak\r" },
   {
     name: "soykırım",
     origin: "Uydurukça",
@@ -15493,7 +15493,7 @@ export const data = [
   { name: "soylu", origin: "Yerel", meaning: "Tekli, Ataklı, Aksüyek\r" },
   {
     name: "soymak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning:
       "(Deri yüzmek): Soymak, (Deri, Kabuk/Meyve, Yemiş vb…): Arcımak, Sıyırmak \\n (Elbise çıkarmak): Çıkarmak, Çeşindirmek \\n (Ev, Banka vb…): Talamak, Tonamak, Uğrulamak\r",
   },
@@ -15505,7 +15505,7 @@ export const data = [
   { name: "soytarı", origin: "Arapça", meaning: "Oyuncu, Kızıkçı\r" },
   {
     name: "soyunmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Çeşinmek, Yalıncaklanmak\r",
   },
   { name: "soyut", origin: "Uydurukça", meaning: "Oydaki, Aygaksız\r" },
@@ -15521,19 +15521,19 @@ export const data = [
   },
   {
     name: "söndürmek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning:
       "(Yanışını ya da ışığını yitirmesini sağlamak): Söndürmek, (Etkinliğini, etkisini, gücünü ya da önemini yitirmesini sağlamak): Öçürmek\r",
   },
   {
     name: "sönmek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning:
       "(Yanışını ya da ışığını yitirmek): Sönmek, (Etkinliğini, etkisini, gücünü ya da önemini yitirmek): Öçmek\r",
   },
   {
     name: "söylemek",
-    origin: "Anlam daralması",
+    origin: "Türkçe",
     meaning: "Söylemek, Eytmek\r",
   },
   { name: "söylenti", origin: "Uydurukça", meaning: "Mışmiş\r" },
@@ -15559,8 +15559,8 @@ export const data = [
   { name: "stajyer", origin: "Fransızca", meaning: "Öğrenci\r" },
   { name: "step", origin: "Fransızca", meaning: "(coğrafya) Dala\r" },
   { name: "sual", origin: "Arapça", meaning: "Sorak\r" },
-  { name: "suç", origin: "Anlam kayması", meaning: "Kılmış, Etmiş\r" },
-  { name: "suçlamak", origin: "Anlam kayması", meaning: "Yazgırmak\r" },
+  { name: "suç", origin: "Türkçe", meaning: "Kılmış, Etmiş\r" },
+  { name: "suçlamak", origin: "Türkçe", meaning: "Yazgırmak\r" },
   {
     name: "suçüstü",
     origin: "Uydurukça",
@@ -15686,7 +15686,7 @@ export const data = [
     origin: "Yerel",
     meaning: "(sevk etmek, kullanmak) Haydamak\\n\\n",
   },
-  { name: "sürtük", origin: "Anlam kayması", meaning: "Bozuk kadın\r" },
+  { name: "sürtük", origin: "Türkçe", meaning: "Bozuk kadın\r" },
   { name: "sürü", origin: "Yerel", meaning: "Üyür, Otar, Sürü\r" },
   { name: "sürücü", origin: "Yerel", meaning: "Haydayıcı\r" },
   { name: "sürüklemek", origin: "Yerel", meaning: "Sürümek\r" },
@@ -15700,7 +15700,7 @@ export const data = [
     origin: "Uydurukça",
     meaning: "Sürünen, Sürünücü\r",
   },
-  { name: "süs", origin: "Kökeni belirsiz", meaning: "Bezek, Yasangı\r" },
+  { name: "süs", origin: "Belirsiz", meaning: "Bezek, Yasangı\r" },
   {
     name: "süslemek",
     origin: "Yerel",
@@ -15723,7 +15723,7 @@ export const data = [
   { name: "süvari", origin: "Farsça", meaning: "Atlı\r" },
   {
     name: "süzülmek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(zayıflamak) Arıklamak, \r",
   },
   { name: "şad", origin: "Farsça", meaning: "Kıvançlı, Kıvanık\r" },
@@ -15824,7 +15824,7 @@ export const data = [
     meaning: "Kalkıma, Kalkavıç, Kalkaç\r",
   },
   { name: "şamanizm", origin: "Fransızca", meaning: "Kamcılık\r" },
-  { name: "şamar", origin: "Kökeni belirsiz", meaning: "Şaplak\r" },
+  { name: "şamar", origin: "Belirsiz", meaning: "Şaplak\r" },
   {
     name: "şamata",
     origin: "Arapça",
@@ -15879,7 +15879,7 @@ export const data = [
   { name: "şaşılmak", origin: "Yerel", meaning: "Danlanmak \r" },
   {
     name: "şaşırmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning:
       "(Şaşmak): Şaşmak, Şaşıp kalmak , Dan kalmak, Danlamak \\n (Yoldan çıkmak, bozulmak): Azışmak\r",
   },
@@ -15890,7 +15890,7 @@ export const data = [
   },
   {
     name: "şaşırtmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning:
       "(Şaşmasını sağlamak): Şaşırmak, Dan kaldırmak, \\n (Yoldan çıkamak, bozmak): Azdırmak, Esten azdırmak, Azıştırmak, Yanlıştırmak, Yanıltmak\r",
   },
@@ -16009,12 +16009,12 @@ export const data = [
   { name: "şımarık", origin: "Yerel", meaning: "Erke, Erköyün\r" },
   {
     name: "şımarmak",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Erkelemek, Erköyünleşmek\r",
   },
   {
     name: "şımartmak",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Erkeletmek, Erköyünleştirmek\r",
   },
   { name: "şıpsevdi", origin: "Yerel", meaning: "Sevgiç\r" },
@@ -16185,7 +16185,7 @@ export const data = [
   { name: "tabaka", origin: "Arapça", meaning: "Kat, Katmer\\n\\n" },
   {
     name: "taban",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning:
       "(Ayak tabanı): Taban, (Ayakkabı tabanı): Oltan, (Bina tabanı): Eden, (Diğer): Taban\r",
   },
@@ -16230,7 +16230,7 @@ export const data = [
   },
   {
     name: "taburcu",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Ağrıhaneneden çıkıcı, Kamaktan çıkıcı\r",
   },
   { name: "tabure", origin: "Fransızca", meaning: "Orunduk\r" },
@@ -16409,7 +16409,7 @@ export const data = [
   { name: "takma", origin: "Yerel", meaning: "Takılan, Tirkelen\r" },
   {
     name: "takmak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Takmak, Tirkemek\r",
   },
   { name: "takoz", origin: "Yunanca", meaning: "Ağaç şına, Çüy\r" },
@@ -16580,7 +16580,7 @@ export const data = [
   { name: "tapon", origin: "Ermenice", meaning: "Dışlandık, Yönekey\r" },
   {
     name: "tapu",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "İyelik tanıklığı\r",
   },
   { name: "taraf", origin: "Arapça", meaning: "Yan, Yak\r" },
@@ -16681,7 +16681,7 @@ export const data = [
   { name: "tatil", origin: "Arapça", meaning: "Dinç alma, Dincelme\r" },
   {
     name: "tatlı",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(Şekerli yiyiyecek): Sücülük, (Şekerli yiyeceğin tadı): Sücü\r",
   },
   { name: "tatmin", origin: "Arapça", meaning: "Kanma, Kanıkma \r" },
@@ -16696,7 +16696,7 @@ export const data = [
     meaning: "Kandırıcı, Kanıktırıcı\r",
   },
   { name: "tava", origin: "Farsça", meaning: "Yağlak\r" },
-  { name: "tavan", origin: "Kökeni belirsiz", meaning: "Tepe\r" },
+  { name: "tavan", origin: "Belirsiz", meaning: "Tepe\r" },
   {
     name: "tavassut",
     origin: "Arapça",
@@ -17544,7 +17544,7 @@ export const data = [
   { name: "tıpa", origin: "İtalyanca", meaning: "Tıkın, Tıkı, Tıkaç\r" },
   {
     name: "tıpatıp",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Taman tap özü, dalmı dal\r",
   },
   { name: "tıpkı", origin: "Arapça", meaning: "Opokşaş, Bepbenzeş\r" },
@@ -17613,17 +17613,17 @@ export const data = [
     meaning: "Eti çekme, Siniri çekme\r",
   },
   { name: "tineycır", origin: "İngilizce", meaning: "Ösmür, Ösmürüm\r" },
-  { name: "tipi", origin: "Anlam kayması", meaning: "Boran\r" },
+  { name: "tipi", origin: "Türkçe", meaning: "Boran\r" },
   { name: "tire", origin: "Fransızca", meaning: "Çizikçe\r" },
   { name: "tiroid", origin: "Fransızca", meaning: "Kalkansı\r" },
   { name: "tiryaki", origin: "Farsça", meaning: "Katı verilen\r" },
   { name: "tişört", origin: "İngilizce", meaning: "Düğmesiz dokuma\r" },
-  { name: "titiz", origin: "Anlam kayması", meaning: "İncik\r" },
+  { name: "titiz", origin: "Türkçe", meaning: "İncik\r" },
   { name: "titreşim", origin: "Uydurukça", meaning: "Titreme\r" },
   { name: "tohum", origin: "Farsça", meaning: "Uruk, Urluk, Bürtük\r" },
   {
     name: "toka",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(Saç tokası): Taralgı, (Kemer/Kayış tokası): Toka\r",
   },
   {
@@ -17631,7 +17631,7 @@ export const data = [
     origin: "Yerel",
     meaning: "(el sıkışmak) El kısışmak, El alışmak\r",
   },
-  { name: "tokat", origin: "Kökeni belirsiz", meaning: "Şaplak\r" },
+  { name: "tokat", origin: "Belirsiz", meaning: "Şaplak\r" },
   {
     name: "tokat atmak",
     origin: "Yerel",
@@ -17645,7 +17645,7 @@ export const data = [
   { name: "tok gözlü", origin: "Yerel", meaning: "Gözü tok\r" },
   {
     name: "tokmak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(Ağaç): Tokmak, (Kapı): Eşik kakkıç\r",
   },
   {
@@ -17664,7 +17664,7 @@ export const data = [
     meaning: "Çıdamak, Döymek\r",
   },
   { name: "tomar", origin: "Arapça", meaning: "Dürüm\r" },
-  { name: "tombul", origin: "Kökeni belirsiz", meaning: "Semiz, Dolu\r" },
+  { name: "tombul", origin: "Belirsiz", meaning: "Semiz, Dolu\r" },
   { name: "tomruk", origin: "Yerel", meaning: "Börene\r" },
   { name: "tomurcuk", origin: "Yerel", meaning: "Bürcük\r" },
   {
@@ -17672,16 +17672,16 @@ export const data = [
     origin: "Fransızca",
     meaning: "Sevimli, Sevimli aksakal\r",
   },
-  { name: "top", origin: "Anlam kayması", meaning: "(kumaş) Dürek\r" },
+  { name: "top", origin: "Türkçe", meaning: "(kumaş) Dürek\r" },
   {
     name: "topaç",
     origin: "Yerel",
     meaning: "Evircek, Çevirik, Fırıldak\r",
   },
-  { name: "topal", origin: "Kökeni belirsiz", meaning: "Aksak\r" },
+  { name: "topal", origin: "Belirsiz", meaning: "Aksak\r" },
   {
     name: "topallamak",
-    origin: "Kökeni belirsiz+Türkçe",
+    origin: "Belirsiz+Türkçe",
     meaning: "Ayağı aksamak, Aksamak\r",
   },
   {
@@ -17697,7 +17697,7 @@ export const data = [
   { name: "toplama", origin: "Uydurukça", meaning: "(matematik) Koşu\r" },
   {
     name: "toplamak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Toplamak, Yığmak, Yığıştırmak, Dermek\r",
   },
   { name: "toplantı", origin: "Uydurukça", meaning: "Yığın, Yığılış\r" },
@@ -17720,7 +17720,7 @@ export const data = [
   { name: "toptan", origin: "Yerel", meaning: "Götürü\r" },
   {
     name: "topuz",
-    origin: "Yerel/Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(Saç): Düğülü saç, (Silah): Çokmar\\n\\n",
   },
   { name: "top yekûn", origin: "Türkçe+Arapça", meaning: "Yalpı\r" },
@@ -17747,7 +17747,7 @@ export const data = [
   { name: "toy", origin: "Yerel", meaning: "(acemi) Tercübesiz\r" },
   {
     name: "toz",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(Toz halindeki): Toz, (Kir, pasak): Çan\r",
   },
   {
@@ -17772,7 +17772,7 @@ export const data = [
     origin: "Yerel",
     meaning: "Büdremek, Kakılmak\r",
   },
-  { name: "töre", origin: "Anlam kayması", meaning: "Yola\r" },
+  { name: "töre", origin: "Türkçe", meaning: "Yola\r" },
   { name: "tören", origin: "Uydurukça", meaning: "Bayram\r" },
   { name: "törpü", origin: "Yerel", meaning: "Eğe\r" },
   { name: "törpülemek", origin: "Yerel", meaning: "Eğemek, Eğelemek\r" },
@@ -17806,7 +17806,7 @@ export const data = [
   { name: "tuhafiye", origin: "Arapça", meaning: "Ufak tefek satışı\r" },
   {
     name: "tulum",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(Kap, Torba): Tuluk, (Giysi): Tulum\r",
   },
   { name: "tulumba", origin: "İtalyanca", meaning: "Soğurguç\r" },
@@ -17835,7 +17835,7 @@ export const data = [
   },
   {
     name: "tutam",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Tutam, Çimdik\r",
   },
   { name: "tutanak", origin: "Uydurukça", meaning: "Bitim\r" },
@@ -17853,7 +17853,7 @@ export const data = [
   { name: "tutkun", origin: "Uydurukça", meaning: "Verilen\r" },
   {
     name: "tutmak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning:
       "(El ile): Tutmak, Avuçlamak, Uşlamak (Yakalamak): Tutmak, Yakalamak, (Taraf): Yaklamak, Kollamak\r",
   },
@@ -17961,39 +17961,39 @@ export const data = [
   { name: "ufuk", origin: "Arapça", meaning: "Gözyetim, Gözyetimi\r" },
   {
     name: "uğrak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Köp varılan yer, Tez tez varılan yer\r",
   },
   {
     name: "uğramak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning:
       "Girip çıkmak, Yol üstü girip çıkmak, Tez varıp gelmek, Toktayp durmak\r",
   },
   {
     name: "uğraş",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "İş, Güreş, Dalaş\r",
   },
   {
     name: "uğraşmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Köp işlemek, Köp dırışmak, Güreşmek\r",
   },
   {
     name: "uğur",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning:
       "(İyilik belirtisi, iyilik kaynağı): Irım, Yakşı ırım, (Talih, Şans): Kut\r",
   },
   {
     name: "uğurlamak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Uzatmak, Yola uzatmak, Esenlik dileyip yola salmak\r",
   },
   {
     name: "uğursuz",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Yönsüz, Ağır gözlü, Gözü yaman, Yaman gözlü\r",
   },
   { name: "ukala", origin: "Arapça", meaning: "Essatar, Bilimsek\r" },
@@ -18014,7 +18014,7 @@ export const data = [
   { name: "ulusalcı", origin: "Uydurukça", meaning: "Ulusçu, Ulusçul\r" },
   { name: "uluslararası", origin: "Yerel", meaning: "Ellerarası\r" },
   { name: "ulvi", origin: "Arapça", meaning: "Büyük\r" },
-  { name: "umacı", origin: "Kökeni belirsiz", meaning: "Böcü\r" },
+  { name: "umacı", origin: "Belirsiz", meaning: "Böcü\r" },
   { name: "umumi", origin: "Arapça", meaning: "Yalpı, Ortak\r" },
   {
     name: "umumiyetle",
@@ -18037,12 +18037,12 @@ export const data = [
   { name: "urgan", origin: "Yerel", meaning: "Arkan\r" },
   {
     name: "usanç",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "İç busuğu, Yadıma, Erikme, Bezme\r",
   },
   {
     name: "usanmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "İçi busmak, Yadımak, Erikmek, Bezmek\r",
   },
   {
@@ -18059,14 +18059,14 @@ export const data = [
   { name: "ustura", origin: "Farsça", meaning: "Yiti yülügüç\r" },
   {
     name: "usturuplu",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Uygun, Doğru, Anık\r",
   },
   { name: "usulca", origin: "Arapça", meaning: "Yavaş yavaş\r" },
   { name: "usul usul", origin: "Arapça", meaning: "Yavaş yavaş\r" },
   {
     name: "uşak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Yumuşçu, Kullukçu\r",
   },
   { name: "utku", origin: "Uydurukça", meaning: "Yeniş, Yutuş\r" },
@@ -18094,17 +18094,17 @@ export const data = [
   { name: "uygulamalı", origin: "Uydurukça", meaning: "Kollanmalı\r" },
   {
     name: "uygun",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Yararlı, Onaylı, Yaramlı, Uygun, Doğru gelen\r",
   },
   {
     name: "uygunsuz",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Yararsız, Onaysız, Yaramsız, Uygunsuz, Doğru gelmeyen\r",
   },
   {
     name: "uymak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Doğru gelmek, Yaramak, Uymak\r",
   },
   {
@@ -18114,7 +18114,7 @@ export const data = [
   },
   {
     name: "uysal",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Söz dinleyici, Kulak asıcı, Yavaş \r",
   },
   {
@@ -18133,7 +18133,7 @@ export const data = [
   { name: "uyuşuk", origin: "Yerel", meaning: "Salak, Yalkav, Uyuz\r" },
   {
     name: "uyuz",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Kotur, Gicişme, Gidişme\r",
   },
   { name: "uzak", origin: "Yerel", meaning: "Irak, Alıs, Uzak\r" },
@@ -18144,12 +18144,12 @@ export const data = [
   },
   {
     name: "uzamak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Uzamak, Sozulmak\r",
   },
   {
     name: "uzanmak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning:
       "(Yatmak): Yayılıp yatmak, Yatıp dinç almak (El yetirmek): Sozulmak, El sozmak (Boyunca yayılmak): Sozulup yatmak\r",
   },
@@ -18185,7 +18185,7 @@ export const data = [
   { name: "ümmi", origin: "Arapça", meaning: "Bilimsiz\r" },
   {
     name: "ün",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Dan, Atak, Ataklılık\r",
   },
   {
@@ -18231,7 +18231,7 @@ export const data = [
   },
   {
     name: "ürpermek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(Kişi): Titremek, (Kıl ve tüyler): Ürpermek\r",
   },
   {
@@ -18241,7 +18241,7 @@ export const data = [
   },
   { name: "ürün", origin: "Uydurukça", meaning: "Önüm\r" },
   { name: "üslup", origin: "Arapça", meaning: "Alım, Yol\r" },
-  { name: "üst", origin: "Anlam kayması", meaning: "(para) Kaytarım\r" },
+  { name: "üst", origin: "Türkçe", meaning: "(para) Kaytarım\r" },
   { name: "üstat", origin: "Farsça", meaning: "Çeber, Bilgir\r" },
   {
     name: "üstelemek",
@@ -18268,17 +18268,17 @@ export const data = [
   { name: "üstyapı", origin: "Uydurukça", meaning: "Üst kurma\r" },
   {
     name: "üşengeç",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Erincek, Yalkav\r",
   },
   {
     name: "üşenmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Erinmek, Yalkavlanmak\r",
   },
   {
     name: "üşümek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Üşümek, Buzlamak, Donmak\r",
   },
   {
@@ -18301,24 +18301,24 @@ export const data = [
   },
   {
     name: "üzgün",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Kaygılı, Acınan, Gönülsüz, Gönlü buzulan\r",
   },
   {
     name: "üzmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning:
       "Kaygılandırmak, Acındırmak, Gönlünü buzmak, İçini üzmek, Kınamak\r",
   },
   {
     name: "üzülmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning:
       "Kaygılanmak, Acınmak, Gönlü bozulmak, İçi üzülmek, Kınanmak, Kınalmak\r",
   },
   {
     name: "üzüntü",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Kaygı, Acınma, Kınanma, Ayanç\r",
   },
   {
@@ -18414,14 +18414,14 @@ export const data = [
   { name: "varit", origin: "Arapça", meaning: "Olan\r" },
   {
     name: "varlık",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning:
       "(Mevcudiyet, Var oluş): Varlık, (Zenginlik, Servet): Varlılık, Baylık\r",
   },
   { name: "varlıklı", origin: "Yerel", meaning: "Bay, Varlı\r" },
   {
     name: "varmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Varıp yetmek, Yetmek\r",
   },
   { name: "varsayım", origin: "Uydurukça", meaning: "Bolcam, Çağlama\r" },
@@ -18615,7 +18615,7 @@ export const data = [
   { name: "vezin", origin: "Arapça", meaning: "Koşuk ölçemi\r" },
   {
     name: "vıcık vıcık",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Sıvı, İlencek, İleşkek\r",
   },
   { name: "vibrasyon", origin: "Fransızca", meaning: "Titreme\r" },
@@ -18701,7 +18701,7 @@ export const data = [
   { name: "vurgunculuk", origin: "Uydurukça", meaning: "Alıpsatarlık\r" },
   {
     name: "vurmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(kurşunla) Atmak, Atıp yaralamak, Atıp öldürmek\r",
   },
   {
@@ -18720,7 +18720,7 @@ export const data = [
   { name: "yaban mandası", origin: "Türkçe+Farsça", meaning: "Kotaz\r" },
   {
     name: "yabancı",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(Tanıdık olmayan): Yad, (Dış ülkeden gelen): Çet, Çet elli\r",
   },
   {
@@ -18781,7 +18781,7 @@ export const data = [
   { name: "yaklaşmak", origin: "Yerel", meaning: "Yakınlaşmak\r" },
   {
     name: "yakmak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning:
       "(Işık ya da Isı sağlamak için): Yakmak, (Alevle, Kuvvetli ateşle): Yandırmak, (Koz halinde, İçin için, Yavaş yavaş/Duygular insanın içini): Göydürmek, (Duygular insanın içini): Örtemek\r",
   },
@@ -18792,12 +18792,12 @@ export const data = [
   },
   {
     name: "yalama olmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Bozulmak, Yayılmak\r",
   },
   {
     name: "yalan",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Yalan, Aldak, Aldam\r",
   },
   {
@@ -18807,7 +18807,7 @@ export const data = [
   },
   {
     name: "yalancı",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Yalancı, Aldakçı, Aldamcı\r",
   },
   { name: "yalancıktan", origin: "Yerel", meaning: "Yalandan\r" },
@@ -18847,7 +18847,7 @@ export const data = [
   },
   {
     name: "yalpalamak",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Irganmak, Deprenmek, Çaykalmak\r",
   },
   {
@@ -18861,7 +18861,7 @@ export const data = [
   { name: "yamalamak", origin: "Yerel", meaning: "Yamamak\r" },
   {
     name: "yaman",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Güçlü, Keskin, Gelişkin\r",
   },
   {
@@ -18871,12 +18871,12 @@ export const data = [
   },
   {
     name: "yamuk",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(Eğri) Eğri, Yantayık, Bükük\r",
   },
   {
     name: "yamulmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Eğrilmek, Yantaymak, Bükülmek\r",
   },
   { name: "yamyam", origin: "İngilizce", meaning: "Kişi yiyici\r" },
@@ -18888,13 +18888,13 @@ export const data = [
   },
   {
     name: "yangın",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning:
       "(Doğal): Yangın, (İnsan eliyle çıkarılan, kundaklama sonucu çıkan): Ört\r",
   },
   {
     name: "yanık",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(Ad): Pişik yarası, Yanık (Sıfat): Yanık, Göyük\r",
   },
   { name: "yanılgı", origin: "Uydurukça", meaning: "Yanlış\r" },
@@ -18928,7 +18928,7 @@ export const data = [
   },
   {
     name: "yanmak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning:
       "(Işık ya da Isı sağlamar biçimde): Yanmak, (Alevle, Kuvvetli ateşle): Yanmak, (Koz halinde, İçin için, Yavaş yavaş/Duygular ile insan): Göymek, Göyünmek (Duygular ile insan): Örtenmek\r",
   },
@@ -18963,7 +18963,7 @@ export const data = [
   },
   {
     name: "yapmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Kurmak, İşlemek, Yasamak\\n\\n",
   },
   { name: "yaptırım", origin: "Uydurukça", meaning: "Ceza\r" },
@@ -18973,7 +18973,7 @@ export const data = [
     meaning: "Cezalandırma gücü\r",
   },
   { name: "yar", origin: "Farsça", meaning: "(sevgili) Sevgili\r" },
-  { name: "yarak", origin: "Anlam kayması", meaning: "Kotak, Sik\r" },
+  { name: "yarak", origin: "Türkçe", meaning: "Kotak, Sik\r" },
   {
     name: "yaramaz",
     origin: "Yerel",
@@ -18982,7 +18982,7 @@ export const data = [
   { name: "yarasa", origin: "Yerel", meaning: "Yarkanat\r" },
   {
     name: "yaratmak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Yarandırmak, Türetmek, Yaratmak\r",
   },
   { name: "yargı", origin: "Uydurukça", meaning: "(hüküm) Seçim\\n\\n" },
@@ -18991,7 +18991,7 @@ export const data = [
   { name: "yarı", origin: "Yerel", meaning: "Yarım, Yartı, Yarı\r" },
   {
     name: "yarım",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Yarım, Yartı, Yarı\r",
   },
   {
@@ -19052,12 +19052,12 @@ export const data = [
   },
   {
     name: "yassı",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Yassı, Yalpak\r",
   },
   {
     name: "yaş",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(ıslak) Öl, Dım, Çiğ, Yaşlı\r",
   },
   { name: "yaşam", origin: "Yerel", meaning: "Durmuş, Dirlik, Yaşam\r" },
@@ -19081,7 +19081,7 @@ export const data = [
   { name: "yaşlı", origin: "Yerel", meaning: "Kart, Karı\r" },
   {
     name: "yatak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(yatış yeri) Yatak, Döşek\\n\\n",
   },
   { name: "yatalak", origin: "Yerel", meaning: "Yatan ağrılı\r" },
@@ -19098,19 +19098,19 @@ export const data = [
   },
   {
     name: "yatışmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(Kişi/Duygu vb…): Dinçlenmek, Dinmek, (Olay): Basılmak\r",
   },
   {
     name: "yatıştırmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(Kişi/Duygu vb…)Dinçlendirmek, Dindirmek, (Olay): Basmak\r",
   },
   { name: "yavaş", origin: "Yerel", meaning: "Tatı, Yavaş\r" },
   { name: "yave", origin: "Farsça", meaning: "Boş söz, Boşboğazlık \r" },
   { name: "yaver", origin: "Farsça", meaning: "Yardımcı\r" },
   { name: "yavru", origin: "Yerel", meaning: "Döl, Bala, Yavru\r" },
-  { name: "yavuklu", origin: "Anlam kayması", meaning: "Sevgili\r" },
+  { name: "yavuklu", origin: "Türkçe", meaning: "Sevgili\r" },
   { name: "yayan", origin: "Yerel", meaning: "Yaya\r" },
   {
     name: "yaygara",
@@ -19152,7 +19152,7 @@ export const data = [
   },
   {
     name: "yaymak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(Sermek): Yaymak, (Dağıtmak): Dağatmak\r",
   },
   { name: "yayvan", origin: "Yerel", meaning: "Yalpak, Yassı\r" },
@@ -19199,7 +19199,7 @@ export const data = [
   { name: "yele", origin: "Yerel", meaning: "Yal\r" },
   {
     name: "yellemek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Yellemek, Yelpimek\r",
   },
   { name: "yelpaze", origin: "Türkçe+Farsça", meaning: "Yelpigiç\r" },
@@ -19230,10 +19230,10 @@ export const data = [
   },
   {
     name: "yenmek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Yenmek, Ütmek, Utmak\r",
   },
-  { name: "yer", origin: "Anlam genişlemesi", meaning: "Yer, Orun\r" },
+  { name: "yer", origin: "Türkçe", meaning: "Yer, Orun\r" },
   {
     name: "yer çekimi",
     origin: "Uydurukça",
@@ -19248,13 +19248,13 @@ export const data = [
   { name: "yerine", origin: "Yerel", meaning: "Ornuna\r" },
   {
     name: "yerleşik",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning:
       "(Göçebe olmayan): Oturak, (Varlığını uzunca zamandır sürdüregelen): Duraklı, Duruklu\r",
   },
   {
     name: "yerleşmek",
-    origin: "Anlam kayması/Anlam genişlemesi",
+    origin: "Türkçe/Türkçe",
     meaning:
       "(Göçebeliği bırakmak): Oturmak, Oturaklaşmak \\n (Sabitlenmek): Yerleşmek, \\n (Yer kapmak): Orunlaşmak \\n (Taşınıp yaşamaya başlamak): Konuşlanmak \\n (Varlığını oturtmak, Varlığını sürdürecek konuma gelmek): Duraklanmak \\n (Kök salmak): Ornukmak, Gen dağalmak\r",
   },
@@ -19291,7 +19291,7 @@ export const data = [
   },
   {
     name: "yetişmek",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Yetmek, Ösmek, Ülgürmek, Yetişmek, Dal kezinde dayar olmak\r",
   },
   {
@@ -19311,7 +19311,7 @@ export const data = [
   },
   {
     name: "yığın",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Üyüm, Üyüntü, Üyme, Üymek, Top, Toplam, Toplantı\r",
   },
   {
@@ -19329,7 +19329,7 @@ export const data = [
     origin: "Yerel",
     meaning: "Köp, Bol, Sayısız, Toplamı ile, Çok\r",
   },
-  { name: "yıkamak", origin: "Anlam kayması", meaning: "Yumak\r" },
+  { name: "yıkamak", origin: "Türkçe", meaning: "Yumak\r" },
   {
     name: "yıkıcı",
     origin: "Yerel",
@@ -19338,19 +19338,19 @@ export const data = [
   { name: "yıkıntı", origin: "Yerel", meaning: "Yemiriklik\r" },
   {
     name: "yıkmak",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "Yıkmak, Yemirmek, Aktarmak\r",
   },
   { name: "yıldırım", origin: "Yerel", meaning: "Yaşın, Çakmak\r" },
   { name: "yıl dönümü", origin: "Yerel", meaning: "Yıllık\r" },
   {
     name: "yılışık",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Yaltak, Yarancak, Yaramsak, Yalakçı\r",
   },
   {
     name: "yılışmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning:
       "Yaltaklanmak, Yarancaklık etmek, Yaramsaklık etmek, Yalakçılık etmek\r",
   },
@@ -19379,12 +19379,12 @@ export const data = [
   { name: "yobaz", origin: "Yerel", meaning: "Sokur işanımcıl\r" },
   {
     name: "yoğun",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "Yığı, Yış, Tıkız, Koyu, Kalın, Köp\r",
   },
   {
     name: "yoğunlaşmak",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning:
       "Yığılmak, Yışlaşmak, Tıkızlanmak, Koyulmak, Koyulaşmak, Kalınlaşmak, Köpelmek\r",
   },
@@ -19407,13 +19407,13 @@ export const data = [
   { name: "yorgun", origin: "Yerel", meaning: "Argın, Dalgın, Çarçak\r" },
   {
     name: "yormak",
-    origin: "Anlam kayması/Anlam genişlemesi",
+    origin: "Türkçe/Türkçe",
     meaning:
       "(Yorumlamak): Yormak, (Halsiz bırakmak): Çarçatmak, Daldırmak, Arıtmak\r",
   },
   {
     name: "yorulmak",
-    origin: "Anlam kayması/Anlam genişlemesi",
+    origin: "Türkçe/Türkçe",
     meaning:
       "(Yorumlanmak): Yorulmak, (Halsiz kalmak, Halsiz bırakılmak): Çarçamak, Dalmak, Armak\r",
   },
@@ -19505,14 +19505,14 @@ export const data = [
   { name: "yürürlük", origin: "Uydurukça", meaning: "Güce giriş\r" },
   {
     name: "yüz",
-    origin: "Anlam genişlemesi",
+    origin: "Türkçe",
     meaning: "(Çehre) Yüz, Bet, Çıray\\n\\n",
   },
   { name: "yüzünden", origin: "Yerel", meaning: "İçin\r" },
   { name: "yüzey", origin: "Uydurukça", meaning: "Üst, Bet, Yüz\r" },
   {
     name: "yüzmek",
-    origin: "Anlam kayması",
+    origin: "Türkçe",
     meaning: "(soymak) Soymak, Sıyırmak\r",
   },
   {
@@ -19644,7 +19644,7 @@ export const data = [
   { name: "zevç", origin: "Arapça", meaning: "Er, Güvey, Bey, Yoldaş\r" },
   {
     name: "zevzek",
-    origin: "Kökeni belirsiz",
+    origin: "Belirsiz",
     meaning: "Söylek, Ezme, Deşik ağız, Sözsatar\r",
   },
   { name: "zıddiyet", origin: "Arapça", meaning: "Karama karşılık\r" },
@@ -19672,10 +19672,10 @@ export const data = [
     origin: "Farsça",
     meaning: "Kar bürtüğü, Düğürcük, Bir kaşık su, Hiç nerse\r",
   },
-  { name: "zırva", origin: "Kökeni belirsiz", meaning: "Boş söz\r" },
+  { name: "zırva", origin: "Belirsiz", meaning: "Boş söz\r" },
   {
     name: "zırvalamak",
-    origin: "Kökeni belirsiz+Türkçe",
+    origin: "Belirsiz+Türkçe",
     meaning:
       "Tentiyip söylemek, Olmayacak söz söylemek, Boş söz söylemek, Yok sözü eytmek, Boşboğazlık etmek\r",
   },
@@ -19741,7 +19741,7 @@ export const data = [
   { name: "ziynet", origin: "Arapça", meaning: "Bezek\r" },
   {
     name: "zonklamak",
-    origin: "Kökeni belirsiz+Türkçe",
+    origin: "Belirsiz+Türkçe",
     meaning: "Sızlamak\r",
   },
   { name: "zor", origin: "Farsça", meaning: "Kın, Ağır\r" },
@@ -19772,7 +19772,7 @@ export const data = [
     meaning: "Kınak vermek, Kınamak, Kısmak\r",
   },
   { name: "züccaciye", origin: "Arapça", meaning: "Ayak kap kacak\r" },
-  { name: "züğürt", origin: "Kökeni belirsiz", meaning: "Akçasız\r" },
+  { name: "züğürt", origin: "Belirsiz", meaning: "Akçasız\r" },
   { name: "zühre", origin: "Arapça", meaning: "Çolpan\r" },
   { name: "zühul", origin: "Arapça", meaning: "Salaklık\r" },
   {
@@ -19783,7 +19783,7 @@ export const data = [
   { name: "zülüf", origin: "Farsça", meaning: "Çike saçı\r" },
   { name: "zümre", origin: "Arapça", meaning: "Top, Topar, Katlak\r" },
   { name: "zümrüdü anka", origin: "Arapça", meaning: "Tuğrul, Dumrul\r" },
-  { name: "züppe", origin: "Kökeni belirsiz", meaning: "Maktancak\r" },
+  { name: "züppe", origin: "Belirsiz", meaning: "Maktancak\r" },
   { name: "zürriyet", origin: "Arapça", meaning: "Döl\r" },
   { name: "" },
 ];

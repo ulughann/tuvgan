@@ -23,7 +23,45 @@ function getValueByName(list, name) {
 }
 let dat = data[w];
 let name = dat.name;
-let origin = dat.origin;
+let origin_string = dat.origin;
+let possible_origins = [
+  "Almanca",
+  "Türkçe",
+  "Belirsiz",
+  "Bozulmuş",
+  "Farsça",
+  "Arapça",
+  "Farça",
+  "Fransızca",
+  "Uydurukça",
+  "Yunanca",
+  "Argo",
+  "Bulgarca",
+  "Ermenice",
+  "İtalyanca",
+  "Kürtçe",
+  "Latince",
+  "Macarca",
+  "Moğolca",
+  "Rumence",
+  "Rusça",
+  "Sanskritçe",
+  "Soğdca",
+  "Sırpça",
+  "Çince",
+  "İngilizce",
+  "İspanyolca",
+];
+
+let origins = [];
+for (let origin of possible_origins) {
+  if (origin_string.includes(origin)) {
+    origins.push(origin);
+  }
+}
+
+let origin = origins.join(", ");
+
 let meaning = dat.meaning;
 ---
 
