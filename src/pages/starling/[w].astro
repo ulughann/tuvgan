@@ -1,0 +1,73 @@
+---
+import { paths } from "./starling-params";
+import { data } from "./starling-data";
+export function getStaticPaths() {
+  return paths;
+}
+
+import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
+
+const { w } = Astro.params;
+
+const ret = data[w];
+let str = "";
+Object.keys(ret).forEach((key) => {
+  str += `
+    <div class="container"><strong>${key}</strong>: ${ret[key]}</div>
+  `;
+});
+
+let reta = Object.keys(ret);
+let meaning = ret.Meaning
+let comment = ret.Comments
+reta.sort();
+reta.filter((item) => item !== "Meaning");
+reta = reta.filter((item) => item !== "id");
+reta = reta.filter((item) => item !== "Comments");
+reta = reta.filter((item) => item !== "Altaic etymology");
+
+console.log(reta);
+---
+
+<style>
+  .container {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(32, 31, 31);
+  }
+  strong {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: rgba(0, 238, 255, 0.205);
+    font-weight: bold;
+  }
+  .container2 {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: rgba(0, 238, 255, 0.205);
+    font-weight: bold;
+  }
+</style>
+
+<StarlightPage frontmatter={{ title: ret.pronounce || "" }}>
+
+<ul>
+  <div class="container2">
+    {meaning}
+  </div>
+{
+      reta.map((item) => (
+      <div class="container bg-red-200">
+        <strong>{item}</strong>: {ret[item]}
+      </div>
+      ))
+}
+  <br>
+  <div class="container">
+    {comment}
+  </div>
+</ul>
+</StarlightPage>
