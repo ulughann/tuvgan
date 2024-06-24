@@ -18,8 +18,8 @@ Object.keys(ret).forEach((key) => {
 });
 
 let reta = Object.keys(ret);
-let meaning = ret.Meaning
-let comment = ret.Comments
+let meaning = ret.Meaning;
+let comment = ret.Comments;
 reta.sort();
 reta.filter((item) => item !== "Meaning");
 reta = reta.filter((item) => item !== "id");
@@ -50,22 +50,21 @@ reta = reta.filter((item) => item !== "Altaic etymology");
   }
 </style>
 
-<StarlightPage frontmatter={{ title: ret.pronounce || "" }} data-pagefind-filter="starling">
-
-<ul>
-  <div class="container2" >
-    {meaning}
-  </div>
-{
+<StarlightPage frontmatter={{ title: ret.pronounce || "" }}>
+  <ul data-pagefind-filter="starling">
+    <div class="container2">
+      {meaning}
+    </div>
+    {
       reta.map((item) => (
-      <div class="container bg-red-200">
-        <strong>{item}</strong>: {ret[item]}
-      </div>
+        <div class="container bg-red-200">
+          <strong>{item}</strong>: {ret[item]}
+        </div>
       ))
-}
-  <br>
-  <div class="container">
-    {comment}
-  </div>
-</ul>
+    }
+    <br />
+    <div class="container">
+      {comment}
+    </div>
+  </ul>
 </StarlightPage>
