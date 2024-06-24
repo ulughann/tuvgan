@@ -18950,7 +18950,7 @@ export const data = [
   },
   {
     name: "yapısal",
-    origin: "",
+    origin: "Türkçe",
     meaning: "Kuruluşluk, Kurulumluk, Düzülüşlük\r",
   },
   { name: "yapıştırıcı", origin: "Uydurukça", meaning: "Yelim\r" },
@@ -19785,5 +19785,4 @@ export const data = [
   { name: "zümrüdü anka", origin: "Arapça", meaning: "Tuğrul, Dumrul\r" },
   { name: "züppe", origin: "Belirsiz", meaning: "Maktancak\r" },
   { name: "zürriyet", origin: "Arapça", meaning: "Döl\r" },
-  { name: "" },
 ];
