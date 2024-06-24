@@ -83,18 +83,22 @@ if (reta.includes("Tungusic")) {
     background-color: rgba(0, 238, 255, 0.205);
     font-weight: bold;
   }
+
+  .hide {
+    display: none;
+  }
 </style>
 
 <StarlightPage frontmatter={{ title: ret.pronounce || "" }}>
   <ul>
-    <div class="container2" data-pagefind-filter="Proto Türkçe Sözlüğü:Anlam">
+    <div class="container2" data-pagefind-filter="Proto Türkçe Sözlük:Anlam">
       {meaning}
     </div>
     {
       reta.map((item) => (
         <div
           class="container bg-red-200"
-          data-pagefind-filter={"Proto Türkçe Sözlüğü:" + item.trim()}
+          data-pagefind-filter={"Proto Türkçe Sözlük:Karşılıklar"}
         >
           <strong>{item.replace("-", " ")}</strong>: {ret[item]}
         </div>
@@ -104,5 +108,9 @@ if (reta.includes("Tungusic")) {
     <div class="container">
       {comment}
     </div>
+
+    <p class="hide" data-pagefind-filter="Proto Türkçe:Sözcük">
+      {ret.prnounce || ""}
+    </p>
   </ul>
 </StarlightPage>
