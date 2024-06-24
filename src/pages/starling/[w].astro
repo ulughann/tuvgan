@@ -21,10 +21,49 @@ let reta = Object.keys(ret);
 let meaning = ret.Meaning;
 let comment = ret.Comments;
 reta.sort();
-reta.filter((item) => item !== "Meaning");
+reta = reta.filter((item) => item !== "Meaning");
+reta = reta.filter((item) => item !== "Russian meaning");
+reta = reta.filter((item) => item !== "Turkish meaning");
+reta = reta.filter((item) => item !== "Nostratic");
 reta = reta.filter((item) => item !== "id");
 reta = reta.filter((item) => item !== "Comments");
 reta = reta.filter((item) => item !== "Altaic etymology");
+reta = reta.filter((item) => item !== "Pronounce");
+
+if (reta.includes("Middle Turkic")) {
+  reta = reta.filter((item) => item !== "Middle Turkic");
+  reta.unshift("Middle Turkic");
+}
+if (reta.includes("Old Turkic")) {
+  reta = reta.filter((item) => item !== "Old Turkic");
+  reta.unshift("Old Turkic");
+}
+if (reta.includes("Proto-Turkic")) {
+  reta = reta.filter((item) => item !== "Proto-Turkic");
+  reta.unshift("Proto-Turkic");
+}
+if (reta.includes(" Proto-Altaic")) {
+  reta = reta.filter((item) => item !== " Proto-Altaic");
+  reta.unshift(" Proto-Altaic");
+}
+
+// remove Japanese, Korean, Mongolian, Tungusic, Turkic, Uralic, and add them back at the bottom in order
+if (reta.includes("Japanese")) {
+  reta = reta.filter((item) => item !== "Japanese");
+  reta.push("Japanese");
+}
+if (reta.includes("Korean")) {
+  reta = reta.filter((item) => item !== "Korean");
+  reta.push("Korean");
+}
+if (reta.includes("Mongolian")) {
+  reta = reta.filter((item) => item !== "Mongolian");
+  reta.push("Mongolian");
+}
+if (reta.includes("Tungusic")) {
+  reta = reta.filter((item) => item !== "Tungusic");
+  reta.push("Tungusic");
+}
 ---
 
 <style>
@@ -52,16 +91,16 @@ reta = reta.filter((item) => item !== "Altaic etymology");
 
 <StarlightPage frontmatter={{ title: ret.pronounce || "" }}>
   <ul>
-    <div class="container2" data-pagefind-filter="Starling:Anlam">
+    <div class="container2" data-pagefind-filter="Proto Türkçe Sözlüğü:Anlam">
       {meaning}
     </div>
     {
       reta.map((item) => (
         <div
           class="container bg-red-200"
-          data-pagefind-filter={"Starling:" + item.trim()}
+          data-pagefind-filter={"Proto Türkçe Sözlüğü:" + item.trim()}
         >
-          <strong>{item}</strong>: {ret[item]}
+          <strong>{item.replace("-", " ")}</strong>: {ret[item]}
         </div>
       ))
     }
