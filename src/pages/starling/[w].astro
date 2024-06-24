@@ -10,13 +10,6 @@ import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
 const { w } = Astro.params;
 
 const ret = data[w];
-let str = "";
-Object.keys(ret).forEach((key) => {
-  str += `
-    <div class="container"><strong>${key}</strong>: ${ret[key]}</div>
-  `;
-});
-
 let reta = Object.keys(ret);
 let meaning = ret.Meaning;
 let comment = ret.Comments;
