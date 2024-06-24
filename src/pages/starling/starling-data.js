@@ -2641,8 +2641,6 @@ export const data = [
     pronounce: " ar- (Orkh., OUygh.) 1",
   },
   {
-    " back vowel variation)":
-      " cf. Mong. arça- 'to quarrel, argue'; erüs- 'to rival, compete'; Turk. *ersi- 'mean, nasty' (see Дыбо 12); perhaps also Mong. *arila- 'to disappear, vanish' ( < '*to miss'), see MGCD 118.",
     Meaning: " 1 to go astray, lose one's way 2 to lose mind, go mad 3 to miss",
     "Russian meaning":
       " 1 сбиваться с пути 2 сходить с ума 3 упускать, промахиваться",
@@ -9233,11 +9231,6 @@ export const data = [
     pronounce: " *çĀka",
   },
   {
-    " čekir 'whitish' is itself an obvious Turkism (see TMN ibid., Clark 1977, 134 with doubts). The root should be distinguished from nasalized forms":
-      " Oyr. çangqir, Chuv. senker, Yak. çenggir, cenggir, Kirgh. çenkil, çangil with the same set of meanings ('whitish, blue', often of eyes) = Mong. (Khalkha) cenxer id.; those should be compared with Tokh. A, B tseṃ 'blue (of eyes)', Pers. zangaar 'verdigris', whence Tat. zänggär (from Pers. zang 'rust', further derived with *zaa'to leave, remain', Sak. ysaayä 'rust', Osset. zgä, see Bailey 348-349). This is most probably an Iranian loanword in Turkic, Tokh. and Mong. (although a Chinese origin - cf. MC 青 chieng 'blue' - is also possible). Cf. VEWT 104 (Turk. < Mong.), 531.",
-    id: 349,
-  },
-  {
     "Proto-Turkic": " *çal-",
     "Altaic etymology": " Altaic etymology",
     " Proto-Altaic": " *ç`àlù",
@@ -9755,11 +9748,6 @@ export const data = [
     Kumyk: " çeke 1",
     id: 371,
     pronounce: " *çẹke",
-  },
-  {
-    "-dɨk - a denominative suffix. The word is attested in MK, but in an aberrant (dialectal) shape with š-, and the meaning 'nut' is probably secondary, the original meaning of the root being 'coniferous tree, branch'. Several other plant names may be related, cf.":
-      " Chag. çekɛ 'berries found in the Fergana mountains'; Uzb. çakanda 'облепиха крушиновидная', Uygh. çäkändä 'a bush with red fruits' (R 3, 1947 Taranchi, mod. çakanda 'a k. of thorny bush'), Az. çäkil 'mulberry'; Kirgh. South. çekende 'хвойник; кузьмичева трава; эфедра двуколосковая' (its pseudoberries are edible; despite Yudakhin, not < Iranian - the word is not attested in Persian). Turk. > Pers. çäkäldäk 'blackberry' (Гаффаров).",
-    id: 372,
   },
   {
     Tatar: " çɛkɛn 'corn cob' (< Chuv.?)",
@@ -10786,13 +10774,7 @@ export const data = [
     pronounce: " çoluq (OUygh.) 1, çol- 2, çolmaq 3 (OUygh. late - Suv.)",
   },
   {
-    " -ɨ- 'big spoon' (VEWT 98; < *čom-čak?). Various forms meaning 'to squat' may belong here as well (cf.":
-      " Tur. çömel-, Az. çömäl-, Gag. çömel-, Turkm. çommal-, Tat. çümäş-, Kaz. şömey-, KBalk. çömel- ('trip over'; cf. also çömel-t- 'to turn over; dip someone into water'), with a secondary semantic development ('dip, dive' > 'fall or sit down, squat'); cf. similar semantic shifts in PT *çök-.",
-    id: 417,
-  },
-  {
     "Proto-Turkic": " *çortan",
-    "Altaic etymology": " Altaic etymology",
     " Proto-Altaic": " *ç`oùrV",
     Nostratic: " Nostratic",
     Meaning: " 1 eel 2 pike",
@@ -18863,8 +18845,6 @@ export const data = [
     pronounce: " güve",
   },
   {
-    "*ń in PT. The Jpn. reflex is somewhat problematic":
-      " loss of final resonant here may be explained by a standard development before a velar suffix (*ka < *gi̯òyn(u)-gV, cf. Mong. *gege-ğe, Man. geng-ǵe); but one would rather expect a PJ form like *ku(i). The irregular vowel may be due to contraction, cf. a similar case in PJ *ká 'mosquito' < PA *kúńe.",
     Meaning: " 1 sun 2 day 3 sunny place 4 sun-heat",
     "Russian meaning": " 1 солнце 2 день 3 солнечное место 4 солнечный жар",
     "Old Turkic":
@@ -38458,8 +38438,6 @@ export const data = [
     pronounce: " *Külmüŕ",
   },
   {
-    "l metathesis ( < *keler-ǯegene). Cf. a number of similar roots, with a possibility of contaminations":
-      " see *keru, *k`i̯ū́ĺa, *ki̯ùti, *k`ela.",
     Meaning: " 1 rat 2 mole",
     "Russian meaning": " 1 крыса 2 крот",
     Tatar: " köşöl (dial.) 1",

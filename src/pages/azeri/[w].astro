@@ -56,17 +56,17 @@ ret = ret.slice(1)
     white-space: nowrap;
 
   }
+
+  .hide {
+    display: none;
+  }
 </style>
-
-<head><meta 
-  data-pagefind-filter="Azerbaycan T. Sözlüğü"></head>
-
 
 <StarlightPage frontmatter={{ title: w || "" }} >
   <ul>
     <div><strong>Dil:</strong> Azerbaycan Türkçesi</div>
 
-    <div class="container2" data-pagefind-filter="Azerbaycan T. Sözlüğü:Anlam">
+    <div class="container2" data-pagefind-filter="Azerbaycan Türkçesi:Anlam">
       {el1.replaceAll("\\n", "").replaceAll(/\{[^}]+\}/g, "")}
     </div>
     {
@@ -81,4 +81,7 @@ ret = ret.slice(1)
       ))
     }
   </ul>
+  <p class="hide" data-pagefind-filter="Azerbaycan Türkçesi">
+    {w}
+  </p>
 </StarlightPage>
