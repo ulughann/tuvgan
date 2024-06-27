@@ -103,22 +103,22 @@ let meaning = dat.meaning;
 <StarlightPage frontmatter={{ title: name || "" }}>
   <ul>
     <div>
-      <strong>Sözlük:</strong> Karşılık Sözlüğü
-      <strong>Köken:</strong>
-      {origin}
-    </div>
+      <li>
+        <strong>Sözlük:</strong> Karşılık Sözlüğü
+        <strong>Köken:</strong>
+        {origin}
+      </li>
 
-    <div class="container2">
-      {meaning}
-    </div>
-    <div class="hide">
-      {
-        origins.map((origin) => {
-          return (
-            <p data-pagefind-filter={"Karşılık Sözlüğü:" + "Köken:" + origin} />
-          );
-        })
-      }
+      <div class="container2">
+        {meaning}
+      </div>
+      <div class="hide">
+        {
+          origins.map((origin) => {
+            return <p data-pagefind-filter={"Karşılık Sözlüğü: " + origin} />;
+          })
+        }
+      </div>
     </div>
   </ul>
 </StarlightPage>
